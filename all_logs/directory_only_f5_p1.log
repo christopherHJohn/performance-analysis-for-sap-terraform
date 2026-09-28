@@ -1,0 +1,112 @@
+Running terraform plan -refresh-only 10 time(s)
+Using Terraform parallelism: 1
+
+Run 1/10:
+  Total run time: 2.316657s
+  btp_directory.directory_1                                              130ms
+  btp_directory.directory_2                                              148ms
+  btp_directory.directory_3                                              138ms
+  btp_directory.directory_4                                              476ms
+  btp_directory.directory_5                                              142ms
+
+
+Run 2/10:
+  Total run time: 1.790932s
+  btp_directory.directory_1                                              161ms
+  btp_directory.directory_2                                              138ms
+  btp_directory.directory_3                                              319ms
+  btp_directory.directory_4                                              151ms
+  btp_directory.directory_5                                              127ms
+
+
+Run 3/10:
+  Total run time: 1.801296s
+  btp_directory.directory_1                                              203ms
+  btp_directory.directory_2                                              131ms
+  btp_directory.directory_3                                              153ms
+  btp_directory.directory_4                                              324ms
+  btp_directory.directory_5                                              142ms
+
+
+Run 4/10:
+  Total run time: 1.719533s
+  btp_directory.directory_1                                              132ms
+  btp_directory.directory_2                                              127ms
+  btp_directory.directory_3                                              132ms
+  btp_directory.directory_4                                              145ms
+  btp_directory.directory_5                                              294ms
+
+
+Run 5/10:
+  Total run time: 1.521556s
+  btp_directory.directory_1                                              120ms
+  btp_directory.directory_2                                              131ms
+  btp_directory.directory_3                                              154ms
+  btp_directory.directory_4                                              134ms
+  btp_directory.directory_5                                              229ms
+
+
+Run 6/10:
+  Total run time: 1.604519s
+  btp_directory.directory_1                                              222ms
+  btp_directory.directory_2                                              124ms
+  btp_directory.directory_3                                              137ms
+  btp_directory.directory_4                                              133ms
+  btp_directory.directory_5                                              149ms
+
+
+Run 7/10:
+  Total run time: 1.517665s
+  btp_directory.directory_1                                              124ms
+  btp_directory.directory_2                                              131ms
+  btp_directory.directory_3                                              295ms
+  btp_directory.directory_4                                              131ms
+  btp_directory.directory_5                                              117ms
+
+
+Run 8/10:
+  Total run time: 1.729396s
+  btp_directory.directory_1                                              148ms
+  btp_directory.directory_2                                              124ms
+  btp_directory.directory_3                                              312ms
+  btp_directory.directory_4                                              125ms
+  btp_directory.directory_5                                              127ms
+
+
+Run 9/10:
+  Total run time: 1.579251s
+  btp_directory.directory_1                                              139ms
+  btp_directory.directory_2                                              308ms
+  btp_directory.directory_3                                              120ms
+  btp_directory.directory_4                                              127ms
+  btp_directory.directory_5                                              122ms
+
+
+Run 10/10:
+  Total run time: 1.743047s
+  btp_directory.directory_1                                              137ms
+  btp_directory.directory_2                                              286ms
+  btp_directory.directory_3                                              209ms
+  btp_directory.directory_4                                              274ms
+  btp_directory.directory_5                                              117ms
+
+
+Final results:
+-------                                ------------    -----------    -----------
+Element                                Average (ms)   Minimum (ms)   Maximum (ms)
+btp_directory.directory_1                    151.60            120            222
+btp_directory.directory_2                    164.80            124            308
+btp_directory.directory_3                    196.90            120            319
+btp_directory.directory_4                    202.00            125            476
+btp_directory.directory_5                    156.60            117            294
+
+Grouped results:
+-------                                ------------    -----------    -----------
+Element                                Average (ms)   Minimum (ms)   Maximum (ms)
+btp_directory.*                              174.38            117            476
+
+Total wall-clock time: 17.323852s
+Average wall-clock time: 1.732385s
+Minimum wall-clock time: 1.517665s
+Maximum wall-clock time: 2.316657s
+Total Ressources: 5

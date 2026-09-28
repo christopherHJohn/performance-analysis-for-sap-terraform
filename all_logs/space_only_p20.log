@@ -1,0 +1,513 @@
+Running terraform plan -refresh-only 100 time(s) in /Users/christopher-henry.john/Documents/GitHub_Private/performance-test/cf_space_only/test...
+Using Terraform parallelism: 20
+
+Run 1/100:
+  Total run time: 1.274557s
+  cloudfoundry_space.space                                               149ms
+
+
+Run 2/100:
+  Total run time: 1.115122s
+  cloudfoundry_space.space                                               138ms
+
+
+Run 3/100:
+  Total run time: 1.163177s
+  cloudfoundry_space.space                                               194ms
+
+
+Run 4/100:
+  Total run time: 1.158366s
+  cloudfoundry_space.space                                               178ms
+
+
+Run 5/100:
+  Total run time: 1.158930s
+  cloudfoundry_space.space                                               175ms
+
+
+Run 6/100:
+  Total run time: 1.214037s
+  cloudfoundry_space.space                                               153ms
+
+
+Run 7/100:
+  Total run time: 1.208989s
+  cloudfoundry_space.space                                               148ms
+
+
+Run 8/100:
+  Total run time: 1.078651s
+  cloudfoundry_space.space                                               142ms
+
+
+Run 9/100:
+  Total run time: 1.182619s
+  cloudfoundry_space.space                                               124ms
+
+
+Run 10/100:
+  Total run time: 1.224912s
+  cloudfoundry_space.space                                               146ms
+
+
+Run 11/100:
+  Total run time: 1.086817s
+  cloudfoundry_space.space                                               118ms
+
+
+Run 12/100:
+  Total run time: 1.201992s
+  cloudfoundry_space.space                                               146ms
+
+
+Run 13/100:
+  Total run time: 1.196001s
+  cloudfoundry_space.space                                               188ms
+
+
+Run 14/100:
+  Total run time: 1.131990s
+  cloudfoundry_space.space                                               169ms
+
+
+Run 15/100:
+  Total run time: 1.190594s
+  cloudfoundry_space.space                                               136ms
+
+
+Run 16/100:
+  Total run time: 1.126719s
+  cloudfoundry_space.space                                               140ms
+
+
+Run 17/100:
+  Total run time: 6.188592s
+  cloudfoundry_space.space                                               143ms
+
+
+Run 18/100:
+  Total run time: 1.299022s
+  cloudfoundry_space.space                                               134ms
+
+
+Run 19/100:
+  Total run time: 1.090694s
+  cloudfoundry_space.space                                               134ms
+
+
+Run 20/100:
+  Total run time: 1.050863s
+  cloudfoundry_space.space                                               133ms
+
+
+Run 21/100:
+  Total run time: 1.093047s
+  cloudfoundry_space.space                                               154ms
+
+
+Run 22/100:
+  Total run time: 1.142844s
+  cloudfoundry_space.space                                               142ms
+
+
+Run 23/100:
+  Total run time: 1.117616s
+  cloudfoundry_space.space                                               135ms
+
+
+Run 24/100:
+  Total run time: 1.086709s
+  cloudfoundry_space.space                                               171ms
+
+
+Run 25/100:
+  Total run time: 1.224519s
+  cloudfoundry_space.space                                               200ms
+
+
+Run 26/100:
+  Total run time: 1.359944s
+  cloudfoundry_space.space                                               156ms
+
+
+Run 27/100:
+  Total run time: 1.224921s
+  cloudfoundry_space.space                                               141ms
+
+
+Run 28/100:
+  Total run time: 1.191219s
+  cloudfoundry_space.space                                               145ms
+
+
+Run 29/100:
+  Total run time: 1.220912s
+  cloudfoundry_space.space                                               127ms
+
+
+Run 30/100:
+  Total run time: 1.131018s
+  cloudfoundry_space.space                                               139ms
+
+
+Run 31/100:
+  Total run time: 1.209921s
+  cloudfoundry_space.space                                               134ms
+
+
+Run 32/100:
+  Total run time: 1.106289s
+  cloudfoundry_space.space                                               150ms
+
+
+Run 33/100:
+  Total run time: 1.199697s
+  cloudfoundry_space.space                                               153ms
+
+
+Run 34/100:
+  Total run time: 1.237523s
+  cloudfoundry_space.space                                               151ms
+
+
+Run 35/100:
+  Total run time: 1.069652s
+  cloudfoundry_space.space                                               135ms
+
+
+Run 36/100:
+  Total run time: 1.088591s
+  cloudfoundry_space.space                                               163ms
+
+
+Run 37/100:
+  Total run time: 1.098099s
+  cloudfoundry_space.space                                               145ms
+
+
+Run 38/100:
+  Total run time: 1.105117s
+  cloudfoundry_space.space                                               130ms
+
+
+Run 39/100:
+  Total run time: 1.133336s
+  cloudfoundry_space.space                                               139ms
+
+
+Run 40/100:
+  Total run time: 1.289547s
+  cloudfoundry_space.space                                               151ms
+
+
+Run 41/100:
+  Total run time: 1.254399s
+  cloudfoundry_space.space                                               178ms
+
+
+Run 42/100:
+  Total run time: 1.198933s
+  cloudfoundry_space.space                                               138ms
+
+
+Run 43/100:
+  Total run time: 1.139475s
+  cloudfoundry_space.space                                               131ms
+
+
+Run 44/100:
+  Total run time: 1.050656s
+  cloudfoundry_space.space                                               129ms
+
+
+Run 45/100:
+  Total run time: 1.066224s
+  cloudfoundry_space.space                                               138ms
+
+
+Run 46/100:
+  Total run time: 1.284699s
+  cloudfoundry_space.space                                               151ms
+
+
+Run 47/100:
+  Total run time: 1.153930s
+  cloudfoundry_space.space                                               128ms
+
+
+Run 48/100:
+  Total run time: 1.185291s
+  cloudfoundry_space.space                                               159ms
+
+
+Run 49/100:
+  Total run time: 1.309005s
+  cloudfoundry_space.space                                               128ms
+
+
+Run 50/100:
+  Total run time: 1.133817s
+  cloudfoundry_space.space                                               135ms
+
+
+Run 51/100:
+  Total run time: 1.128683s
+  cloudfoundry_space.space                                               131ms
+
+
+Run 52/100:
+  Total run time: 1.266225s
+  cloudfoundry_space.space                                               173ms
+
+
+Run 53/100:
+  Total run time: 1.182708s
+  cloudfoundry_space.space                                               187ms
+
+
+Run 54/100:
+  Total run time: 1.175137s
+  cloudfoundry_space.space                                               140ms
+
+
+Run 55/100:
+  Total run time: 1.161318s
+  cloudfoundry_space.space                                               166ms
+
+
+Run 56/100:
+  Total run time: 1.286130s
+  cloudfoundry_space.space                                               235ms
+
+
+Run 57/100:
+  Total run time: 1.180544s
+  cloudfoundry_space.space                                               136ms
+
+
+Run 58/100:
+  Total run time: 1.096653s
+  cloudfoundry_space.space                                               154ms
+
+
+Run 59/100:
+  Total run time: 1.167584s
+  cloudfoundry_space.space                                               140ms
+
+
+Run 60/100:
+  Total run time: 1.245027s
+  cloudfoundry_space.space                                               188ms
+
+
+Run 61/100:
+  Total run time: 1.586092s
+  cloudfoundry_space.space                                               141ms
+
+
+Run 62/100:
+  Total run time: 1.104260s
+  cloudfoundry_space.space                                               140ms
+
+
+Run 63/100:
+  Total run time: 1.215381s
+  cloudfoundry_space.space                                               182ms
+
+
+Run 64/100:
+  Total run time: 1.102013s
+  cloudfoundry_space.space                                               150ms
+
+
+Run 65/100:
+  Total run time: 1.098475s
+  cloudfoundry_space.space                                               135ms
+
+
+Run 66/100:
+  Total run time: 6.473299s
+  cloudfoundry_space.space                                               143ms
+
+
+Run 67/100:
+  Total run time: 1.212007s
+  cloudfoundry_space.space                                               148ms
+
+
+Run 68/100:
+  Total run time: 1.079469s
+  cloudfoundry_space.space                                               136ms
+
+
+Run 69/100:
+  Total run time: 1.300381s
+  cloudfoundry_space.space                                               132ms
+
+
+Run 70/100:
+  Total run time: 1.191905s
+  cloudfoundry_space.space                                               150ms
+
+
+Run 71/100:
+  Total run time: 1.206446s
+  cloudfoundry_space.space                                               133ms
+
+
+Run 72/100:
+  Total run time: 1.191311s
+  cloudfoundry_space.space                                               179ms
+
+
+Run 73/100:
+  Total run time: 1.300621s
+  cloudfoundry_space.space                                               223ms
+
+
+Run 74/100:
+  Total run time: 1.182483s
+  cloudfoundry_space.space                                               122ms
+
+
+Run 75/100:
+  Total run time: 1.101153s
+  cloudfoundry_space.space                                               141ms
+
+
+Run 76/100:
+  Total run time: 1.244101s
+  cloudfoundry_space.space                                               132ms
+
+
+Run 77/100:
+  Total run time: 1.238675s
+  cloudfoundry_space.space                                               136ms
+
+
+Run 78/100:
+  Total run time: 1.280415s
+  cloudfoundry_space.space                                               148ms
+
+
+Run 79/100:
+  Total run time: 1.114531s
+  cloudfoundry_space.space                                               147ms
+
+
+Run 80/100:
+  Total run time: 1.057147s
+  cloudfoundry_space.space                                               119ms
+
+
+Run 81/100:
+  Total run time: 1.177974s
+  cloudfoundry_space.space                                               188ms
+
+
+Run 82/100:
+  Total run time: 1.054734s
+  cloudfoundry_space.space                                               148ms
+
+
+Run 83/100:
+  Total run time: 1.241849s
+  cloudfoundry_space.space                                               169ms
+
+
+Run 84/100:
+  Total run time: 1.155901s
+  cloudfoundry_space.space                                               124ms
+
+
+Run 85/100:
+  Total run time: 1.186495s
+  cloudfoundry_space.space                                               139ms
+
+
+Run 86/100:
+  Total run time: 1.238222s
+  cloudfoundry_space.space                                               159ms
+
+
+Run 87/100:
+  Total run time: 1.107916s
+  cloudfoundry_space.space                                               138ms
+
+
+Run 88/100:
+  Total run time: 1.096046s
+  cloudfoundry_space.space                                               134ms
+
+
+Run 89/100:
+  Total run time: 1.233031s
+  cloudfoundry_space.space                                               138ms
+
+
+Run 90/100:
+  Total run time: 1.063086s
+  cloudfoundry_space.space                                               137ms
+
+
+Run 91/100:
+  Total run time: 1.120218s
+  cloudfoundry_space.space                                               128ms
+
+
+Run 92/100:
+  Total run time: 1.148429s
+  cloudfoundry_space.space                                               132ms
+
+
+Run 93/100:
+  Total run time: 1.386788s
+  cloudfoundry_space.space                                               176ms
+
+
+Run 94/100:
+  Total run time: 1.446383s
+  cloudfoundry_space.space                                               149ms
+
+
+Run 95/100:
+  Total run time: 1.238999s
+  cloudfoundry_space.space                                               155ms
+
+
+Run 96/100:
+  Total run time: 1.212497s
+  cloudfoundry_space.space                                               140ms
+
+
+Run 97/100:
+  Total run time: 2.490224s
+  cloudfoundry_space.space                                               1461ms
+
+
+Run 98/100:
+  Total run time: 1.378706s
+  cloudfoundry_space.space                                               176ms
+
+
+Run 99/100:
+  Total run time: 1.178455s
+  cloudfoundry_space.space                                               131ms
+
+
+Run 100/100:
+  Total run time: 1.037237s
+  cloudfoundry_space.space                                               126ms
+
+
+Final results:
+-------                                ------------    -----------    -----------
+Element                                Average (ms)   Minimum (ms)   Maximum (ms)
+cloudfoundry_space.space                     161.99            118           1461
+
+Total wall-clock time: 129.812958s
+Average wall-clock time: 1.298130s
+Minimum wall-clock time: 1.037237s
+Maximum wall-clock time: 6.473299s
+Total Ressources: 1

@@ -1,0 +1,513 @@
+Running terraform plan -refresh-only 100 time(s)
+Using Terraform parallelism: 1
+
+Run 1/100:
+  Total run time: 1.205920s
+  btp_directory.directory                                                372ms
+
+
+Run 2/100:
+  Total run time: 1.123469s
+  btp_directory.directory                                                354ms
+
+
+Run 3/100:
+  Total run time: 1.159195s
+  btp_directory.directory                                                362ms
+
+
+Run 4/100:
+  Total run time: 1.073449s
+  btp_directory.directory                                                323ms
+
+
+Run 5/100:
+  Total run time: 1.067275s
+  btp_directory.directory                                                341ms
+
+
+Run 6/100:
+  Total run time: 1.063185s
+  btp_directory.directory                                                303ms
+
+
+Run 7/100:
+  Total run time: 1.036865s
+  btp_directory.directory                                                261ms
+
+
+Run 8/100:
+  Total run time: 1.202740s
+  btp_directory.directory                                                332ms
+
+
+Run 9/100:
+  Total run time: 1.008476s
+  btp_directory.directory                                                302ms
+
+
+Run 10/100:
+  Total run time: 1.053888s
+  btp_directory.directory                                                236ms
+
+
+Run 11/100:
+  Total run time: 1.088027s
+  btp_directory.directory                                                370ms
+
+
+Run 12/100:
+  Total run time: 1.160350s
+  btp_directory.directory                                                393ms
+
+
+Run 13/100:
+  Total run time: 1.144177s
+  btp_directory.directory                                                296ms
+
+
+Run 14/100:
+  Total run time: 1.804305s
+  btp_directory.directory                                                357ms
+
+
+Run 15/100:
+  Total run time: 2.248619s
+  btp_directory.directory                                                411ms
+
+
+Run 16/100:
+  Total run time: 1.094014s
+  btp_directory.directory                                                368ms
+
+
+Run 17/100:
+  Total run time: 1.038728s
+  btp_directory.directory                                                305ms
+
+
+Run 18/100:
+  Total run time: 1.255305s
+  btp_directory.directory                                                377ms
+
+
+Run 19/100:
+  Total run time: 1.060481s
+  btp_directory.directory                                                251ms
+
+
+Run 20/100:
+  Total run time: 1.153105s
+  btp_directory.directory                                                318ms
+
+
+Run 21/100:
+  Total run time: 1.001009s
+  btp_directory.directory                                                291ms
+
+
+Run 22/100:
+  Total run time: 0.982501s
+  btp_directory.directory                                                257ms
+
+
+Run 23/100:
+  Total run time: 1.042269s
+  btp_directory.directory                                                318ms
+
+
+Run 24/100:
+  Total run time: 0.967727s
+  btp_directory.directory                                                264ms
+
+
+Run 25/100:
+  Total run time: 1.037439s
+  btp_directory.directory                                                336ms
+
+
+Run 26/100:
+  Total run time: 1.002996s
+  btp_directory.directory                                                266ms
+
+
+Run 27/100:
+  Total run time: 1.144456s
+  btp_directory.directory                                                345ms
+
+
+Run 28/100:
+  Total run time: 1.037984s
+  btp_directory.directory                                                243ms
+
+
+Run 29/100:
+  Total run time: 0.943235s
+  btp_directory.directory                                                247ms
+
+
+Run 30/100:
+  Total run time: 1.044217s
+  btp_directory.directory                                                323ms
+
+
+Run 31/100:
+  Total run time: 1.103447s
+  btp_directory.directory                                                349ms
+
+
+Run 32/100:
+  Total run time: 1.054941s
+  btp_directory.directory                                                327ms
+
+
+Run 33/100:
+  Total run time: 1.001463s
+  btp_directory.directory                                                266ms
+
+
+Run 34/100:
+  Total run time: 1.095208s
+  btp_directory.directory                                                265ms
+
+
+Run 35/100:
+  Total run time: 0.984378s
+  btp_directory.directory                                                210ms
+
+
+Run 36/100:
+  Total run time: 0.999553s
+  btp_directory.directory                                                270ms
+
+
+Run 37/100:
+  Total run time: 1.029769s
+  btp_directory.directory                                                256ms
+
+
+Run 38/100:
+  Total run time: 1.014639s
+  btp_directory.directory                                                275ms
+
+
+Run 39/100:
+  Total run time: 1.033738s
+  btp_directory.directory                                                248ms
+
+
+Run 40/100:
+  Total run time: 1.015675s
+  btp_directory.directory                                                274ms
+
+
+Run 41/100:
+  Total run time: 1.197918s
+  btp_directory.directory                                                290ms
+
+
+Run 42/100:
+  Total run time: 1.088129s
+  btp_directory.directory                                                359ms
+
+
+Run 43/100:
+  Total run time: 0.960492s
+  btp_directory.directory                                                238ms
+
+
+Run 44/100:
+  Total run time: 1.060788s
+  btp_directory.directory                                                285ms
+
+
+Run 45/100:
+  Total run time: 0.970008s
+  btp_directory.directory                                                243ms
+
+
+Run 46/100:
+  Total run time: 1.047530s
+  btp_directory.directory                                                352ms
+
+
+Run 47/100:
+  Total run time: 1.199543s
+  btp_directory.directory                                                443ms
+
+
+Run 48/100:
+  Total run time: 1.064805s
+  btp_directory.directory                                                325ms
+
+
+Run 49/100:
+  Total run time: 1.118060s
+  btp_directory.directory                                                300ms
+
+
+Run 50/100:
+  Total run time: 1.146461s
+  btp_directory.directory                                                308ms
+
+
+Run 51/100:
+  Total run time: 1.025269s
+  btp_directory.directory                                                268ms
+
+
+Run 52/100:
+  Total run time: 0.945381s
+  btp_directory.directory                                                258ms
+
+
+Run 53/100:
+  Total run time: 1.088133s
+  btp_directory.directory                                                245ms
+
+
+Run 54/100:
+  Total run time: 1.111193s
+  btp_directory.directory                                                337ms
+
+
+Run 55/100:
+  Total run time: 1.030661s
+  btp_directory.directory                                                294ms
+
+
+Run 56/100:
+  Total run time: 1.045569s
+  btp_directory.directory                                                328ms
+
+
+Run 57/100:
+  Total run time: 1.033596s
+  btp_directory.directory                                                234ms
+
+
+Run 58/100:
+  Total run time: 1.041874s
+  btp_directory.directory                                                257ms
+
+
+Run 59/100:
+  Total run time: 1.097253s
+  btp_directory.directory                                                288ms
+
+
+Run 60/100:
+  Total run time: 0.978748s
+  btp_directory.directory                                                281ms
+
+
+Run 61/100:
+  Total run time: 0.979226s
+  btp_directory.directory                                                277ms
+
+
+Run 62/100:
+  Total run time: 1.050449s
+  btp_directory.directory                                                274ms
+
+
+Run 63/100:
+  Total run time: 0.994988s
+  btp_directory.directory                                                274ms
+
+
+Run 64/100:
+  Total run time: 0.986143s
+  btp_directory.directory                                                243ms
+
+
+Run 65/100:
+  Total run time: 0.983623s
+  btp_directory.directory                                                272ms
+
+
+Run 66/100:
+  Total run time: 0.946599s
+  btp_directory.directory                                                242ms
+
+
+Run 67/100:
+  Total run time: 1.130552s
+  btp_directory.directory                                                289ms
+
+
+Run 68/100:
+  Total run time: 1.123423s
+  btp_directory.directory                                                329ms
+
+
+Run 69/100:
+  Total run time: 0.993712s
+  btp_directory.directory                                                255ms
+
+
+Run 70/100:
+  Total run time: 1.076819s
+  btp_directory.directory                                                372ms
+
+
+Run 71/100:
+  Total run time: 0.972798s
+  btp_directory.directory                                                256ms
+
+
+Run 72/100:
+  Total run time: 0.978344s
+  btp_directory.directory                                                259ms
+
+
+Run 73/100:
+  Total run time: 0.988689s
+  btp_directory.directory                                                285ms
+
+
+Run 74/100:
+  Total run time: 0.943652s
+  btp_directory.directory                                                250ms
+
+
+Run 75/100:
+  Total run time: 1.013283s
+  btp_directory.directory                                                251ms
+
+
+Run 76/100:
+  Total run time: 1.012164s
+  btp_directory.directory                                                273ms
+
+
+Run 77/100:
+  Total run time: 1.054174s
+  btp_directory.directory                                                316ms
+
+
+Run 78/100:
+  Total run time: 1.089442s
+  btp_directory.directory                                                378ms
+
+
+Run 79/100:
+  Total run time: 0.981031s
+  btp_directory.directory                                                257ms
+
+
+Run 80/100:
+  Total run time: 1.015038s
+  btp_directory.directory                                                283ms
+
+
+Run 81/100:
+  Total run time: 1.102880s
+  btp_directory.directory                                                392ms
+
+
+Run 82/100:
+  Total run time: 1.058023s
+  btp_directory.directory                                                334ms
+
+
+Run 83/100:
+  Total run time: 0.970383s
+  btp_directory.directory                                                237ms
+
+
+Run 84/100:
+  Total run time: 1.004062s
+  btp_directory.directory                                                268ms
+
+
+Run 85/100:
+  Total run time: 1.000951s
+  btp_directory.directory                                                276ms
+
+
+Run 86/100:
+  Total run time: 0.998027s
+  btp_directory.directory                                                275ms
+
+
+Run 87/100:
+  Total run time: 1.120274s
+  btp_directory.directory                                                271ms
+
+
+Run 88/100:
+  Total run time: 0.947952s
+  btp_directory.directory                                                241ms
+
+
+Run 89/100:
+  Total run time: 1.031377s
+  btp_directory.directory                                                288ms
+
+
+Run 90/100:
+  Total run time: 1.002576s
+  btp_directory.directory                                                272ms
+
+
+Run 91/100:
+  Total run time: 0.955030s
+  btp_directory.directory                                                255ms
+
+
+Run 92/100:
+  Total run time: 1.133388s
+  btp_directory.directory                                                405ms
+
+
+Run 93/100:
+  Total run time: 1.110394s
+  btp_directory.directory                                                273ms
+
+
+Run 94/100:
+  Total run time: 1.146540s
+  btp_directory.directory                                                280ms
+
+
+Run 95/100:
+  Total run time: 1.000326s
+  btp_directory.directory                                                275ms
+
+
+Run 96/100:
+  Total run time: 0.966530s
+  btp_directory.directory                                                248ms
+
+
+Run 97/100:
+  Total run time: 1.072501s
+  btp_directory.directory                                                358ms
+
+
+Run 98/100:
+  Total run time: 1.108983s
+  btp_directory.directory                                                279ms
+
+
+Run 99/100:
+  Total run time: 0.985003s
+  btp_directory.directory                                                249ms
+
+
+Run 100/100:
+  Total run time: 1.096533s
+  btp_directory.directory                                                402ms
+
+
+Final results:
+-------                                ------------    -----------    -----------
+Element                                Average (ms)   Minimum (ms)   Maximum (ms)
+btp_directory.directory                      297.08            210            443
+
+Total wall-clock time: 106.955510s
+Average wall-clock time: 1.069555s
+Minimum wall-clock time: 0.943235s
+Maximum wall-clock time: 2.248619s
+Total Ressources: 1

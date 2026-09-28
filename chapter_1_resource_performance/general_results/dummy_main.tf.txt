@@ -1,0 +1,89 @@
+terraform {
+  required_providers {
+    btp = {
+      source  = "SAP/btp"
+      version = "1.26.0"
+    }
+    sci = {
+      source  = "SAP/sap-cloud-identity-services"
+      version = "0.7.0-beta1"
+    }
+    scc = {
+      source  = "sap/scc"
+      version = "1.5.0"
+    }
+    cloudfoundry = {
+      source  = "cloudfoundry/cloudfoundry"
+      version = "~> 1.15.0"
+    }
+  }
+}
+
+provider "btp" {}
+provider "cloudfoundry" {}
+provider "sci" {}
+provider "scc" {}
+
+
+# BTP
+
+// Directory
+resource "btp_directory" "directory" {}
+
+// Subaccount
+resource "btp_subaccount" "subaccount" {}
+
+// Enviroment
+resource "btp_subaccount_environment_instance" "cloudfoundry" {}
+
+// Entitlement
+resource "btp_subaccount_entitlement" "entitlement" {}
+
+// Role
+resource "btp_subaccount_role" "role" {}
+
+// Rolecollection
+resource "btp_subaccount_role_collection" "collection" {}
+
+// Destination
+resource "btp_subaccount_destination_generic" "destination" {}
+
+// Subscription
+resource "btp_subaccount_subscription" "subscription" {}
+
+// Instance
+resource "btp_subaccount_service_instance" "instance" {}
+
+// Trust Config
+resource "btp_subaccount_trust_configuration" "trust" {}
+
+
+# CF
+
+// Space 
+resource "cloudfoundry_space" "space" {}
+
+// Instance
+resource "cloudfoundry_service_instance" "instance" {}
+
+
+# Cloud Connector
+
+// Subaccount
+resource "scc_subaccount" "subaccount" {}
+
+// System
+resource "scc_system_mapping" "system" {}
+
+// Endpoint
+resource "scc_system_mapping_resource" "resource" {}
+
+# Cloud Identity Services
+
+// User
+resource "sci_user" "user" {}
+
+// Group
+resource "sci_group_base" "group" {}
+
+resource "sci_application" "app" {}

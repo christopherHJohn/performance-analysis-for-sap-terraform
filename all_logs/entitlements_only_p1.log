@@ -1,0 +1,113 @@
+Running terraform plan -refresh-only 20 time(s)
+Using Terraform parallelism: 1
+
+Run 1/20:
+  Total run time: 12.510410s
+  btp_subaccount_entitlement.entitlement                                 10912ms
+
+
+Run 2/20:
+  Total run time: 11.814216s
+  btp_subaccount_entitlement.entitlement                                 10898ms
+
+
+Run 3/20:
+  Total run time: 11.617823s
+  btp_subaccount_entitlement.entitlement                                 10819ms
+
+
+Run 4/20:
+  Total run time: 11.743347s
+  btp_subaccount_entitlement.entitlement                                 10850ms
+
+
+Run 5/20:
+  Total run time: 11.644893s
+  btp_subaccount_entitlement.entitlement                                 10803ms
+
+
+Run 6/20:
+  Total run time: 11.718283s
+  btp_subaccount_entitlement.entitlement                                 10833ms
+
+
+Run 7/20:
+  Total run time: 11.735807s
+  btp_subaccount_entitlement.entitlement                                 10894ms
+
+
+Run 8/20:
+  Total run time: 11.800505s
+  btp_subaccount_entitlement.entitlement                                 10959ms
+
+
+Run 9/20:
+  Total run time: 11.734962s
+  btp_subaccount_entitlement.entitlement                                 10831ms
+
+
+Run 10/20:
+  Total run time: 11.671176s
+  btp_subaccount_entitlement.entitlement                                 10848ms
+
+
+Run 11/20:
+  Total run time: 11.780580s
+  btp_subaccount_entitlement.entitlement                                 10937ms
+
+
+Run 12/20:
+  Total run time: 11.966362s
+  btp_subaccount_entitlement.entitlement                                 11103ms
+
+
+Run 13/20:
+  Total run time: 12.110974s
+  btp_subaccount_entitlement.entitlement                                 11285ms
+
+
+Run 14/20:
+  Total run time: 11.995807s
+  btp_subaccount_entitlement.entitlement                                 11115ms
+
+
+Run 15/20:
+  Total run time: 11.838440s
+  btp_subaccount_entitlement.entitlement                                 10963ms
+
+
+Run 16/20:
+  Total run time: 11.601816s
+  btp_subaccount_entitlement.entitlement                                 10848ms
+
+
+Run 17/20:
+  Total run time: 11.740379s
+  btp_subaccount_entitlement.entitlement                                 10919ms
+
+
+Run 18/20:
+  Total run time: 11.636937s
+  btp_subaccount_entitlement.entitlement                                 10809ms
+
+
+Run 19/20:
+  Total run time: 11.597622s
+  btp_subaccount_entitlement.entitlement                                 10773ms
+
+
+Run 20/20:
+  Total run time: 11.657102s
+  btp_subaccount_entitlement.entitlement                                 10746ms
+
+
+Final results:
+-------                                  ------------    -----------    -----------
+Element                                  Average (ms)   Minimum (ms)   Maximum (ms)
+btp_subaccount_entitlement.entitlement       10907.25          10746          11285
+
+Total wall-clock time: 235.917441s
+Average wall-clock time: 11.795872s
+Minimum wall-clock time: 11.597622s
+Maximum wall-clock time: 12.510410s
+Total Ressources: 1

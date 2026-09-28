@@ -1,0 +1,496 @@
+Running terraform plan -refresh-only 10 time(s)
+
+Run 1/10:
+  Total run time: 8.318916s
+  btp_directory.directory                                                4881ms
+  btp_subaccount.subaccount                                              1938ms
+  btp_subaccount_destination_generic.destination                         3414ms
+  btp_subaccount_destination_generic.destination_1                       375ms
+  btp_subaccount_environment_instance.cloudfoundry                       2737ms
+  btp_subaccount_role.role                                               2165ms
+  btp_subaccount_role.role_1                                             1048ms
+  btp_subaccount_role_collection.collection                              587ms
+  btp_subaccount_role_collection.collection_1                            2117ms
+  btp_subaccount_role_collection.collection_2                            207ms
+  btp_subaccount_service_instance.instance                               4818ms
+  btp_subaccount_service_instance.instance_1                             6138ms
+  btp_subaccount_subscription.subscription                               4756ms
+  btp_subaccount_subscription.subscription_1                             4785ms
+  btp_subaccount_subscription.subscription_2                             3690ms
+  btp_subaccount_trust_configuration.trust                               1765ms
+  cloudfoundry_service_instance.instance                                 39ms
+  cloudfoundry_service_instance.instance_1                               49ms
+  cloudfoundry_service_instance.instance_2                               39ms
+  cloudfoundry_service_instance.instance_3                               39ms
+  cloudfoundry_space.space                                               112ms
+  cloudfoundry_space.space_1                                             99ms
+  scc_subaccount.subaccount                                              671ms
+  scc_system_mapping.system                                              142ms
+  scc_system_mapping.system_1                                            129ms
+  scc_system_mapping_resource.resource                                   103ms
+  scc_system_mapping_resource.resource_1                                 150ms
+  scc_system_mapping_resource.resource_2                                 114ms
+  scc_system_mapping_resource.resource_3                                 132ms
+  sci_application.app                                                    171ms
+  sci_application.app_1                                                  187ms
+  sci_group_base.group                                                   107ms
+  sci_group_base.group_1                                                 150ms
+  sci_group_base.group_2                                                 162ms
+  sci_user.user                                                          146ms
+  sci_user.user_1                                                        96ms
+  sci_user.user_2                                                        108ms
+  sci_user.user_3                                                        188ms
+  sci_user.user_4                                                        147ms
+
+
+Run 2/10:
+  Total run time: 7.131622s
+  btp_directory.directory                                                4823ms
+  btp_subaccount.subaccount                                              2421ms
+  btp_subaccount_destination_generic.destination                         2270ms
+  btp_subaccount_destination_generic.destination_1                       1505ms
+  btp_subaccount_environment_instance.cloudfoundry                       2076ms
+  btp_subaccount_role.role                                               2428ms
+  btp_subaccount_role.role_1                                             2545ms
+  btp_subaccount_role_collection.collection                              230ms
+  btp_subaccount_role_collection.collection_1                            407ms
+  btp_subaccount_role_collection.collection_2                            2391ms
+  btp_subaccount_service_instance.instance                               5664ms
+  btp_subaccount_service_instance.instance_1                             6235ms
+  btp_subaccount_subscription.subscription                               4655ms
+  btp_subaccount_subscription.subscription_1                             3501ms
+  btp_subaccount_subscription.subscription_2                             4135ms
+  btp_subaccount_trust_configuration.trust                               2384ms
+  cloudfoundry_service_instance.instance                                 42ms
+  cloudfoundry_service_instance.instance_1                               40ms
+  cloudfoundry_service_instance.instance_2                               44ms
+  cloudfoundry_service_instance.instance_3                               40ms
+  cloudfoundry_space.space                                               106ms
+  cloudfoundry_space.space_1                                             145ms
+  scc_subaccount.subaccount                                              642ms
+  scc_system_mapping.system                                              133ms
+  scc_system_mapping.system_1                                            130ms
+  scc_system_mapping_resource.resource                                   111ms
+  scc_system_mapping_resource.resource_1                                 137ms
+  scc_system_mapping_resource.resource_2                                 109ms
+  scc_system_mapping_resource.resource_3                                 144ms
+  sci_application.app                                                    172ms
+  sci_application.app_1                                                  175ms
+  sci_group_base.group                                                   96ms
+  sci_group_base.group_1                                                 148ms
+  sci_group_base.group_2                                                 185ms
+  sci_user.user                                                          153ms
+  sci_user.user_1                                                        141ms
+  sci_user.user_2                                                        103ms
+  sci_user.user_3                                                        94ms
+  sci_user.user_4                                                        149ms
+
+
+Run 3/10:
+  Total run time: 16.018179s
+  btp_directory.directory                                                13784ms
+  btp_subaccount.subaccount                                              2221ms
+  btp_subaccount_destination_generic.destination                         237ms
+  btp_subaccount_destination_generic.destination_1                       407ms
+  btp_subaccount_environment_instance.cloudfoundry                       1437ms
+  btp_subaccount_role.role                                               6125ms
+  btp_subaccount_role.role_1                                             11598ms
+  btp_subaccount_role_collection.collection                              2374ms
+  btp_subaccount_role_collection.collection_1                            1060ms
+  btp_subaccount_role_collection.collection_2                            6362ms
+  btp_subaccount_service_instance.instance                               15106ms
+  btp_subaccount_service_instance.instance_1                             14967ms
+  btp_subaccount_subscription.subscription                               13533ms
+  btp_subaccount_subscription.subscription_1                             8019ms
+  btp_subaccount_subscription.subscription_2                             7042ms
+  btp_subaccount_trust_configuration.trust                               2377ms
+  cloudfoundry_service_instance.instance                                 73ms
+  cloudfoundry_service_instance.instance_1                               40ms
+  cloudfoundry_service_instance.instance_2                               51ms
+  cloudfoundry_service_instance.instance_3                               52ms
+  cloudfoundry_space.space                                               100ms
+  cloudfoundry_space.space_1                                             132ms
+  scc_subaccount.subaccount                                              646ms
+  scc_system_mapping.system                                              141ms
+  scc_system_mapping.system_1                                            122ms
+  scc_system_mapping_resource.resource                                   139ms
+  scc_system_mapping_resource.resource_1                                 90ms
+  scc_system_mapping_resource.resource_2                                 142ms
+  scc_system_mapping_resource.resource_3                                 143ms
+  sci_application.app                                                    188ms
+  sci_application.app_1                                                  180ms
+  sci_group_base.group                                                   158ms
+  sci_group_base.group_1                                                 143ms
+  sci_group_base.group_2                                                 92ms
+  sci_user.user                                                          153ms
+  sci_user.user_1                                                        118ms
+  sci_user.user_2                                                        144ms
+  sci_user.user_3                                                        123ms
+  sci_user.user_4                                                        146ms
+
+
+Run 4/10:
+  Total run time: 6.881047s
+  btp_directory.directory                                                4545ms
+  btp_subaccount.subaccount                                              2263ms
+  btp_subaccount_destination_generic.destination                         2545ms
+  btp_subaccount_destination_generic.destination_1                       161ms
+  btp_subaccount_environment_instance.cloudfoundry                       1913ms
+  btp_subaccount_role.role                                               372ms
+  btp_subaccount_role.role_1                                             2173ms
+  btp_subaccount_role_collection.collection                              2569ms
+  btp_subaccount_role_collection.collection_1                            938ms
+  btp_subaccount_role_collection.collection_2                            2493ms
+  btp_subaccount_service_instance.instance                               5947ms
+  btp_subaccount_service_instance.instance_1                             5253ms
+  btp_subaccount_subscription.subscription                               4585ms
+  btp_subaccount_subscription.subscription_1                             4280ms
+  btp_subaccount_subscription.subscription_2                             3248ms
+  btp_subaccount_trust_configuration.trust                               2214ms
+  cloudfoundry_service_instance.instance                                 41ms
+  cloudfoundry_service_instance.instance_1                               42ms
+  cloudfoundry_service_instance.instance_2                               58ms
+  cloudfoundry_service_instance.instance_3                               39ms
+  cloudfoundry_space.space                                               102ms
+  cloudfoundry_space.space_1                                             115ms
+  scc_subaccount.subaccount                                              570ms
+  scc_system_mapping.system                                              91ms
+  scc_system_mapping.system_1                                            57ms
+  scc_system_mapping_resource.resource                                   99ms
+  scc_system_mapping_resource.resource_1                                 56ms
+  scc_system_mapping_resource.resource_2                                 147ms
+  scc_system_mapping_resource.resource_3                                 56ms
+  sci_application.app                                                    201ms
+  sci_application.app_1                                                  122ms
+  sci_group_base.group                                                   149ms
+  sci_group_base.group_1                                                 159ms
+  sci_group_base.group_2                                                 161ms
+  sci_user.user                                                          149ms
+  sci_user.user_1                                                        160ms
+  sci_user.user_2                                                        155ms
+  sci_user.user_3                                                        99ms
+  sci_user.user_4                                                        135ms
+
+
+Run 5/10:
+  Total run time: 6.778553s
+  btp_directory.directory                                                3143ms
+  btp_subaccount.subaccount                                              1170ms
+  btp_subaccount_destination_generic.destination                         2324ms
+  btp_subaccount_destination_generic.destination_1                       1853ms
+  btp_subaccount_environment_instance.cloudfoundry                       761ms
+  btp_subaccount_role.role                                               1712ms
+  btp_subaccount_role.role_1                                             2382ms
+  btp_subaccount_role_collection.collection                              174ms
+  btp_subaccount_role_collection.collection_1                            2144ms
+  btp_subaccount_role_collection.collection_2                            933ms
+  btp_subaccount_service_instance.instance                               5345ms
+  btp_subaccount_service_instance.instance_1                             4573ms
+  btp_subaccount_subscription.subscription                               3857ms
+  btp_subaccount_subscription.subscription_1                             4466ms
+  btp_subaccount_subscription.subscription_2                             4526ms
+  btp_subaccount_trust_configuration.trust                               1626ms
+  cloudfoundry_service_instance.instance                                 51ms
+  cloudfoundry_service_instance.instance_1                               57ms
+  cloudfoundry_service_instance.instance_2                               43ms
+  cloudfoundry_service_instance.instance_3                               46ms
+  cloudfoundry_space.space                                               110ms
+  cloudfoundry_space.space_1                                             101ms
+  scc_subaccount.subaccount                                              565ms
+  scc_system_mapping.system                                              151ms
+  scc_system_mapping.system_1                                            130ms
+  scc_system_mapping_resource.resource                                   123ms
+  scc_system_mapping_resource.resource_1                                 135ms
+  scc_system_mapping_resource.resource_2                                 146ms
+  scc_system_mapping_resource.resource_3                                 141ms
+  sci_application.app                                                    132ms
+  sci_application.app_1                                                  174ms
+  sci_group_base.group                                                   156ms
+  sci_group_base.group_1                                                 93ms
+  sci_group_base.group_2                                                 158ms
+  sci_user.user                                                          157ms
+  sci_user.user_1                                                        134ms
+  sci_user.user_2                                                        146ms
+  sci_user.user_3                                                        90ms
+  sci_user.user_4                                                        149ms
+
+
+Run 6/10:
+  Total run time: 12.088393s
+  btp_directory.directory                                                2617ms
+  btp_subaccount.subaccount                                              2008ms
+  btp_subaccount_destination_generic.destination                         2064ms
+  btp_subaccount_destination_generic.destination_1                       2442ms
+  btp_subaccount_environment_instance.cloudfoundry                       999ms
+  btp_subaccount_role.role                                               1791ms
+  btp_subaccount_role.role_1                                             188ms
+  btp_subaccount_role_collection.collection                              2308ms
+  btp_subaccount_role_collection.collection_1                            1430ms
+  btp_subaccount_role_collection.collection_2                            380ms
+  btp_subaccount_service_instance.instance                               11020ms
+  btp_subaccount_service_instance.instance_1                             11062ms
+  btp_subaccount_subscription.subscription                               3074ms
+  btp_subaccount_subscription.subscription_1                             3881ms
+  btp_subaccount_subscription.subscription_2                             9004ms
+  btp_subaccount_trust_configuration.trust                               2049ms
+  cloudfoundry_service_instance.instance                                 51ms
+  cloudfoundry_service_instance.instance_1                               38ms
+  cloudfoundry_service_instance.instance_2                               42ms
+  cloudfoundry_service_instance.instance_3                               52ms
+  cloudfoundry_space.space                                               107ms
+  cloudfoundry_space.space_1                                             90ms
+  scc_subaccount.subaccount                                              608ms
+  scc_system_mapping.system                                              141ms
+  scc_system_mapping.system_1                                            141ms
+  scc_system_mapping_resource.resource                                   116ms
+  scc_system_mapping_resource.resource_1                                 143ms
+  scc_system_mapping_resource.resource_2                                 128ms
+  scc_system_mapping_resource.resource_3                                 134ms
+  sci_application.app                                                    189ms
+  sci_application.app_1                                                  165ms
+  sci_group_base.group                                                   98ms
+  sci_group_base.group_1                                                 151ms
+  sci_group_base.group_2                                                 149ms
+  sci_user.user                                                          194ms
+  sci_user.user_1                                                        150ms
+  sci_user.user_2                                                        148ms
+  sci_user.user_3                                                        97ms
+  sci_user.user_4                                                        90ms
+
+
+Run 7/10:
+  Total run time: 6.922430s
+  btp_directory.directory                                                4757ms
+  btp_subaccount.subaccount                                              2741ms
+  btp_subaccount_destination_generic.destination                         185ms
+  btp_subaccount_destination_generic.destination_1                       2408ms
+  btp_subaccount_environment_instance.cloudfoundry                       2873ms
+  btp_subaccount_role.role                                               2685ms
+  btp_subaccount_role.role_1                                             755ms
+  btp_subaccount_role_collection.collection                              1482ms
+  btp_subaccount_role_collection.collection_1                            2768ms
+  btp_subaccount_role_collection.collection_2                            1616ms
+  btp_subaccount_service_instance.instance                               5450ms
+  btp_subaccount_service_instance.instance_1                             5954ms
+  btp_subaccount_subscription.subscription                               4620ms
+  btp_subaccount_subscription.subscription_1                             3805ms
+  btp_subaccount_subscription.subscription_2                             4814ms
+  btp_subaccount_trust_configuration.trust                               1306ms
+  cloudfoundry_service_instance.instance                                 47ms
+  cloudfoundry_service_instance.instance_1                               44ms
+  cloudfoundry_service_instance.instance_2                               38ms
+  cloudfoundry_service_instance.instance_3                               33ms
+  cloudfoundry_space.space                                               149ms
+  cloudfoundry_space.space_1                                             129ms
+  scc_subaccount.subaccount                                              621ms
+  scc_system_mapping.system                                              135ms
+  scc_system_mapping.system_1                                            108ms
+  scc_system_mapping_resource.resource                                   140ms
+  scc_system_mapping_resource.resource_1                                 137ms
+  scc_system_mapping_resource.resource_2                                 147ms
+  scc_system_mapping_resource.resource_3                                 111ms
+  sci_application.app                                                    167ms
+  sci_application.app_1                                                  172ms
+  sci_group_base.group                                                   147ms
+  sci_group_base.group_1                                                 98ms
+  sci_group_base.group_2                                                 97ms
+  sci_user.user                                                          91ms
+  sci_user.user_1                                                        146ms
+  sci_user.user_2                                                        148ms
+  sci_user.user_3                                                        146ms
+  sci_user.user_4                                                        133ms
+
+
+Run 8/10:
+  Total run time: 15.519580s
+  btp_directory.directory                                                4189ms
+  btp_subaccount.subaccount                                              416ms
+  btp_subaccount_destination_generic.destination                         920ms
+  btp_subaccount_destination_generic.destination_1                       1983ms
+  btp_subaccount_environment_instance.cloudfoundry                       2306ms
+  btp_subaccount_role.role                                               2524ms
+  btp_subaccount_role.role_1                                             2529ms
+  btp_subaccount_role_collection.collection                              1078ms
+  btp_subaccount_role_collection.collection_1                            1286ms
+  btp_subaccount_role_collection.collection_2                            201ms
+  btp_subaccount_service_instance.instance                               13730ms
+  btp_subaccount_service_instance.instance_1                             14411ms
+  btp_subaccount_subscription.subscription                               7750ms
+  btp_subaccount_subscription.subscription_1                             8164ms
+  btp_subaccount_subscription.subscription_2                             3051ms
+  btp_subaccount_trust_configuration.trust                               1803ms
+  cloudfoundry_service_instance.instance                                 52ms
+  cloudfoundry_service_instance.instance_1                               78ms
+  cloudfoundry_service_instance.instance_2                               56ms
+  cloudfoundry_service_instance.instance_3                               70ms
+  cloudfoundry_space.space                                               142ms
+  cloudfoundry_space.space_1                                             140ms
+  scc_subaccount.subaccount                                              607ms
+  scc_system_mapping.system                                              141ms
+  scc_system_mapping.system_1                                            139ms
+  scc_system_mapping_resource.resource                                   107ms
+  scc_system_mapping_resource.resource_1                                 133ms
+  scc_system_mapping_resource.resource_2                                 106ms
+  scc_system_mapping_resource.resource_3                                 133ms
+  sci_application.app                                                    162ms
+  sci_application.app_1                                                  123ms
+  sci_group_base.group                                                   90ms
+  sci_group_base.group_1                                                 189ms
+  sci_group_base.group_2                                                 144ms
+  sci_user.user                                                          140ms
+  sci_user.user_1                                                        142ms
+  sci_user.user_2                                                        144ms
+  sci_user.user_3                                                        89ms
+  sci_user.user_4                                                        142ms
+
+
+Run 9/10:
+  Total run time: 6.935515s
+  btp_directory.directory                                                3713ms
+  btp_subaccount.subaccount                                              2380ms
+  btp_subaccount_destination_generic.destination                         1083ms
+  btp_subaccount_destination_generic.destination_1                       168ms
+  btp_subaccount_environment_instance.cloudfoundry                       901ms
+  btp_subaccount_role.role                                               2624ms
+  btp_subaccount_role.role_1                                             2101ms
+  btp_subaccount_role_collection.collection                              1920ms
+  btp_subaccount_role_collection.collection_1                            1908ms
+  btp_subaccount_role_collection.collection_2                            2197ms
+  btp_subaccount_service_instance.instance                               5315ms
+  btp_subaccount_service_instance.instance_1                             4298ms
+  btp_subaccount_subscription.subscription                               3743ms
+  btp_subaccount_subscription.subscription_1                             3886ms
+  btp_subaccount_subscription.subscription_2                             2644ms
+  btp_subaccount_trust_configuration.trust                               1737ms
+  cloudfoundry_service_instance.instance                                 44ms
+  cloudfoundry_service_instance.instance_1                               40ms
+  cloudfoundry_service_instance.instance_2                               49ms
+  cloudfoundry_service_instance.instance_3                               43ms
+  cloudfoundry_space.space                                               98ms
+  cloudfoundry_space.space_1                                             106ms
+  scc_subaccount.subaccount                                              675ms
+  scc_system_mapping.system                                              109ms
+  scc_system_mapping.system_1                                            128ms
+  scc_system_mapping_resource.resource                                   135ms
+  scc_system_mapping_resource.resource_1                                 137ms
+  scc_system_mapping_resource.resource_2                                 145ms
+  scc_system_mapping_resource.resource_3                                 129ms
+  sci_application.app                                                    163ms
+  sci_application.app_1                                                  190ms
+  sci_group_base.group                                                   99ms
+  sci_group_base.group_1                                                 181ms
+  sci_group_base.group_2                                                 166ms
+  sci_user.user                                                          177ms
+  sci_user.user_1                                                        96ms
+  sci_user.user_2                                                        204ms
+  sci_user.user_3                                                        89ms
+  sci_user.user_4                                                        165ms
+
+
+Run 10/10:
+  Total run time: 6.944348s
+  btp_directory.directory                                                4138ms
+  btp_subaccount.subaccount                                              1627ms
+  btp_subaccount_destination_generic.destination                         1819ms
+  btp_subaccount_destination_generic.destination_1                       197ms
+  btp_subaccount_environment_instance.cloudfoundry                       2609ms
+  btp_subaccount_role.role                                               2378ms
+  btp_subaccount_role.role_1                                             1118ms
+  btp_subaccount_role_collection.collection                              1797ms
+  btp_subaccount_role_collection.collection_1                            2308ms
+  btp_subaccount_role_collection.collection_2                            2086ms
+  btp_subaccount_service_instance.instance                               4399ms
+  btp_subaccount_service_instance.instance_1                             5099ms
+  btp_subaccount_subscription.subscription                               3801ms
+  btp_subaccount_subscription.subscription_1                             4896ms
+  btp_subaccount_subscription.subscription_2                             3290ms
+  btp_subaccount_trust_configuration.trust                               572ms
+  cloudfoundry_service_instance.instance                                 40ms
+  cloudfoundry_service_instance.instance_1                               39ms
+  cloudfoundry_service_instance.instance_2                               56ms
+  cloudfoundry_service_instance.instance_3                               40ms
+  cloudfoundry_space.space                                               104ms
+  cloudfoundry_space.space_1                                             103ms
+  scc_subaccount.subaccount                                              661ms
+  scc_system_mapping.system                                              142ms
+  scc_system_mapping.system_1                                            112ms
+  scc_system_mapping_resource.resource                                   129ms
+  scc_system_mapping_resource.resource_1                                 128ms
+  scc_system_mapping_resource.resource_2                                 134ms
+  scc_system_mapping_resource.resource_3                                 149ms
+  sci_application.app                                                    184ms
+  sci_application.app_1                                                  193ms
+  sci_group_base.group                                                   94ms
+  sci_group_base.group_1                                                 156ms
+  sci_group_base.group_2                                                 153ms
+  sci_user.user                                                          141ms
+  sci_user.user_1                                                        86ms
+  sci_user.user_2                                                        146ms
+  sci_user.user_3                                                        153ms
+  sci_user.user_4                                                        82ms
+
+
+Final results:
+-------                                            ------------    -----------    -----------
+Element                                            Average (ms)   Minimum (ms)   Maximum (ms)
+btp_directory.directory                                 5059.00           2617          13784
+btp_subaccount.subaccount                               1918.50            416           2741
+btp_subaccount_destination_generic.destination          1686.10            185           3414
+btp_subaccount_destination_generic.destination_1        1149.90            161           2442
+btp_subaccount_environment_instance.cloudfoundry        1861.20            761           2873
+btp_subaccount_role.role                                2480.40            372           6125
+btp_subaccount_role.role_1                              2643.70            188          11598
+btp_subaccount_role_collection.collection               1451.90            174           2569
+btp_subaccount_role_collection.collection_1             1636.60            407           2768
+btp_subaccount_role_collection.collection_2             1886.60            201           6362
+btp_subaccount_service_instance.instance                7679.40           4399          15106
+btp_subaccount_service_instance.instance_1              7799.00           4298          14967
+btp_subaccount_subscription.subscription                5437.40           3074          13533
+btp_subaccount_subscription.subscription_1              4968.30           3501           8164
+btp_subaccount_subscription.subscription_2              4544.40           2644           9004
+btp_subaccount_trust_configuration.trust                1783.30            572           2384
+cloudfoundry_service_instance.instance                    48.00             39             73
+cloudfoundry_service_instance.instance_1                  46.70             38             78
+cloudfoundry_service_instance.instance_2                  47.60             38             58
+cloudfoundry_service_instance.instance_3                  45.40             33             70
+cloudfoundry_space.space                                 113.00             98            149
+cloudfoundry_space.space_1                               116.00             90            145
+scc_subaccount.subaccount                                626.60            565            675
+scc_system_mapping.system                                132.60             91            151
+scc_system_mapping.system_1                              119.60             57            141
+scc_system_mapping_resource.resource                     120.20             99            140
+scc_system_mapping_resource.resource_1                   124.60             56            150
+scc_system_mapping_resource.resource_2                   131.80            106            147
+scc_system_mapping_resource.resource_3                   127.20             56            149
+sci_application.app                                      172.90            132            201
+sci_application.app_1                                    168.10            122            193
+sci_group_base.group                                     119.40             90            158
+sci_group_base.group_1                                   146.80             93            189
+sci_group_base.group_2                                   146.70             92            185
+sci_user.user                                            150.10             91            194
+sci_user.user_1                                          126.90             86            160
+sci_user.user_2                                          144.60            103            204
+sci_user.user_3                                          116.80             89            188
+sci_user.user_4                                          133.80             82            165
+
+Grouped results:
+-------                                ------------    -----------    -----------
+Element                                Average (ms)   Minimum (ms)   Maximum (ms)
+btp_subaccount_destination_generic.*        1418.00            161           3414
+btp_subaccount_role.*                       2562.05            188          11598
+btp_subaccount_role_collection.*            1658.37            174           6362
+btp_subaccount_service_instance.*           7739.20           4298          15106
+btp_subaccount_subscription.*               4983.37           2644          13533
+cloudfoundry_service_instance.*               46.92             33             78
+cloudfoundry_space.*                         114.50             90            149
+scc_system_mapping.*                         126.10             57            151
+scc_system_mapping_resource.*                125.95             56            150
+sci_application.*                            170.50            122            201
+sci_group_base.*                             137.63             90            189
+sci_user.*                                   134.44             82            204
+
+Total wall-clock time: 93.538583s
+Average wall-clock time: 9.353858s
+Minimum wall-clock time: 6.778553s
+Maximum wall-clock time: 16.018179s
+Total Ressources: 39

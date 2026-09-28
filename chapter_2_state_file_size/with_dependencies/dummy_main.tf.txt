@@ -1,0 +1,179 @@
+terraform {
+  required_providers {
+    btp = {
+      source  = "SAP/btp"
+      version = "1.26.0"
+    }
+    sci = {
+      source  = "SAP/sap-cloud-identity-services"
+      version = "0.7.0-beta1"
+    }
+    scc = {
+      source  = "sap/scc"
+      version = "1.5.0"
+    }
+    cloudfoundry = {
+      source  = "cloudfoundry/cloudfoundry"
+      version = "~> 1.15.0"
+    }
+  }
+}
+
+
+
+provider "btp" {}
+provider "cloudfoundry" {}
+provider "sci" {}
+provider "scc" {}
+
+
+
+resource "btp_directory" "directory" {}
+
+resource "btp_subaccount" "subaccount" {
+  depends_on = [btp_directory.directory]
+}
+
+resource "btp_subaccount_environment_instance" "cloudfoundry" {
+  depends_on = [btp_subaccount.subaccount]
+}
+
+resource "btp_subaccount_entitlement" "entitlement" {
+  depends_on    = [btp_subaccount.subaccount]
+}
+
+resource "btp_subaccount_entitlement" "entitlement_1" {
+  depends_on    = [btp_subaccount.subaccount]
+}
+
+resource "btp_subaccount_entitlement" "entitlement_2" {
+  depends_on    = [btp_subaccount.subaccount]
+}
+
+resource "btp_subaccount_entitlement" "entitlement_3" {
+  depends_on    = [btp_subaccount.subaccount]
+}
+
+resource "btp_subaccount_role" "role" {
+  depends_on         = [btp_subaccount.subaccount]
+}
+
+resource "btp_subaccount_role" "role_1" {
+  depends_on         = [btp_subaccount.subaccount]
+}
+
+resource "btp_subaccount_role_collection" "collection" {
+  depends_on    = [btp_subaccount.subaccount]
+}
+
+resource "btp_subaccount_role_collection" "collection_1" {
+  depends_on    = [btp_subaccount.subaccount]
+}
+
+resource "btp_subaccount_role_collection" "collection_2" {
+  depends_on    = [btp_subaccount.subaccount]
+}
+
+resource "btp_subaccount_destination_generic" "destination" {
+  depends_on                = [btp_subaccount.subaccount]
+}
+
+resource "btp_subaccount_destination_generic" "destination_1" {
+  depends_on                = [btp_subaccount.subaccount]
+}
+
+resource "btp_subaccount_subscription" "subscription" {
+  depends_on    = [btp_subaccount.subaccount]
+}
+
+resource "btp_subaccount_subscription" "subscription_1" {
+  depends_on    = [btp_subaccount.subaccount]
+}
+
+resource "btp_subaccount_subscription" "subscription_2" {
+  depends_on    = [btp_subaccount.subaccount]
+}
+
+resource "btp_subaccount_service_instance" "instance" {
+  depends_on            = [btp_subaccount.subaccount]
+}
+
+resource "btp_subaccount_service_instance" "instance_1" {
+  depends_on            = [btp_subaccount.subaccount]
+}
+
+resource "btp_subaccount_trust_configuration" "trust" {
+  depends_on        = [btp_subaccount.subaccount]
+}
+
+resource "cloudfoundry_space" "space" {
+  depends_on = [btp_subaccount_environment_instance.cloudfoundry]
+}
+
+resource "cloudfoundry_space" "space_1" {
+  depends_on = [btp_subaccount_environment_instance.cloudfoundry]
+}
+
+resource "cloudfoundry_service_instance" "instance" {
+  depends_on   = [cloudfoundry_space.space]
+}
+
+resource "cloudfoundry_service_instance" "instance_1" {
+  depends_on   = [cloudfoundry_space.space_1]
+}
+
+resource "cloudfoundry_service_instance" "instance_2" {
+  depends_on   = [cloudfoundry_space.space]
+}
+
+resource "cloudfoundry_service_instance" "instance_3" {
+  depends_on   = [cloudfoundry_space.space]
+}
+
+resource "scc_subaccount" "subaccount" {
+  depends_on     = [btp_subaccount.subaccount]
+}
+
+resource "scc_system_mapping" "system" {
+  depends_on          = [scc_subaccount.subaccount]
+}
+
+resource "scc_system_mapping" "system_1" {
+  depends_on          = [scc_subaccount.subaccount]
+}
+
+resource "scc_system_mapping_resource" "resource" {
+  depends_on   = [scc_system_mapping.system]
+}
+
+resource "scc_system_mapping_resource" "resource_1" {
+  depends_on   = [scc_system_mapping.system_1]
+}
+
+resource "scc_system_mapping_resource" "resource_2" {
+  depends_on   = [scc_system_mapping.system_1]
+}
+
+resource "scc_system_mapping_resource" "resource_3" {
+  depends_on   = [scc_system_mapping.system_1]
+}
+
+resource "sci_user" "user" {}
+
+resource "sci_user" "user_1" {}
+
+resource "sci_user" "user_2" {}
+
+resource "sci_user" "user_3" {}
+
+resource "sci_user" "user_4" {}
+
+resource "sci_group_base" "group" {}
+
+resource "sci_group_base" "group_1" {}
+
+resource "sci_group_base" "group_2" {}
+
+resource "sci_application" "app" {}
+
+resource "sci_application" "app_1" {}

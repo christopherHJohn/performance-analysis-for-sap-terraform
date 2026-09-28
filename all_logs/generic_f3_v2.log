@@ -1,0 +1,132 @@
+Running terraform plan -refresh-only 1 time(s)
+
+Run 1/1:
+  Total run time: 25.142939s
+  btp_directory.directory                                                2667ms
+  btp_directory.directory_1                                              10144ms
+  btp_directory.directory_2                                              4600ms
+  btp_subaccount.subaccount                                              1818ms
+  btp_subaccount.subaccount_1                                            2039ms
+  btp_subaccount.subaccount_2                                            1471ms
+  btp_subaccount_entitlement.entitlement                                 20529ms
+  btp_subaccount_entitlement.entitlement_1                               15077ms
+  btp_subaccount_entitlement.entitlement_2                               19638ms
+  btp_subaccount_environment_instance.cloudfoundry                       2239ms
+  btp_subaccount_environment_instance.cloudfoundry_1                     1347ms
+  btp_subaccount_environment_instance.cloudfoundry_2                     3216ms
+  btp_subaccount_role.role                                               2778ms
+  btp_subaccount_role.role_1                                             6928ms
+  btp_subaccount_role.role_2                                             2084ms
+  btp_subaccount_role_collection.collection                              2221ms
+  btp_subaccount_role_collection.collection_1                            2627ms
+  btp_subaccount_role_collection.collection_2                            7111ms
+  btp_subaccount_service_instance.instance_1                             4419ms
+  btp_subaccount_service_instance.instance_2                             4230ms
+  btp_subaccount_subscription.subscription                               3744ms
+  btp_subaccount_subscription.subscription_2                             8960ms
+  btp_subaccount_trust_configuration.trust                               7058ms
+  btp_subaccount_trust_configuration.trust_1                             1599ms
+  btp_subaccount_trust_configuration.trust_2                             2917ms
+  cloudfoundry_service_instance.instance                                 52ms
+  cloudfoundry_service_instance.instance_1                               64ms
+  cloudfoundry_service_instance.instance_2                               82ms
+  cloudfoundry_space.space                                               162ms
+  cloudfoundry_space.space_1                                             163ms
+  cloudfoundry_space.space_2                                             167ms
+  scc_subaccount.subaccount                                              1185ms
+  scc_subaccount.subaccount_1                                            1296ms
+  scc_subaccount.subaccount_2                                            923ms
+  scc_system_mapping.system                                              66ms
+  scc_system_mapping.system_1                                            69ms
+  scc_system_mapping.system_2                                            88ms
+  scc_system_mapping_resource.resource                                   62ms
+  scc_system_mapping_resource.resource_1                                 73ms
+  scc_system_mapping_resource.resource_2                                 199ms
+  sci_application.app                                                    358ms
+  sci_application.app_1                                                  360ms
+  sci_application.app_2                                                  406ms
+  sci_group_base.group_1                                                 374ms
+  sci_group_base.group_2                                                 125ms
+  sci_user.user                                                          325ms
+  sci_user.user_1                                                        100ms
+  sci_user.user_2                                                        345ms
+
+
+Final results:
+-------                                              ------------    -----------    -----------
+Element                                              Average (ms)   Minimum (ms)   Maximum (ms)
+btp_directory.directory                                   2667.00           2667           2667
+btp_directory.directory_1                                10144.00          10144          10144
+btp_directory.directory_2                                 4600.00           4600           4600
+btp_subaccount.subaccount                                 1818.00           1818           1818
+btp_subaccount.subaccount_1                               2039.00           2039           2039
+btp_subaccount.subaccount_2                               1471.00           1471           1471
+btp_subaccount_entitlement.entitlement                   20529.00          20529          20529
+btp_subaccount_entitlement.entitlement_1                 15077.00          15077          15077
+btp_subaccount_entitlement.entitlement_2                 19638.00          19638          19638
+btp_subaccount_environment_instance.cloudfoundry          2239.00           2239           2239
+btp_subaccount_environment_instance.cloudfoundry_1        1347.00           1347           1347
+btp_subaccount_environment_instance.cloudfoundry_2        3216.00           3216           3216
+btp_subaccount_role.role                                  2778.00           2778           2778
+btp_subaccount_role.role_1                                6928.00           6928           6928
+btp_subaccount_role.role_2                                2084.00           2084           2084
+btp_subaccount_role_collection.collection                 2221.00           2221           2221
+btp_subaccount_role_collection.collection_1               2627.00           2627           2627
+btp_subaccount_role_collection.collection_2               7111.00           7111           7111
+btp_subaccount_service_instance.instance_1                4419.00           4419           4419
+btp_subaccount_service_instance.instance_2                4230.00           4230           4230
+btp_subaccount_subscription.subscription                  3744.00           3744           3744
+btp_subaccount_subscription.subscription_2                8960.00           8960           8960
+btp_subaccount_trust_configuration.trust                  7058.00           7058           7058
+btp_subaccount_trust_configuration.trust_1                1599.00           1599           1599
+btp_subaccount_trust_configuration.trust_2                2917.00           2917           2917
+cloudfoundry_service_instance.instance                      52.00             52             52
+cloudfoundry_service_instance.instance_1                    64.00             64             64
+cloudfoundry_service_instance.instance_2                    82.00             82             82
+cloudfoundry_space.space                                   162.00            162            162
+cloudfoundry_space.space_1                                 163.00            163            163
+cloudfoundry_space.space_2                                 167.00            167            167
+scc_subaccount.subaccount                                 1185.00           1185           1185
+scc_subaccount.subaccount_1                               1296.00           1296           1296
+scc_subaccount.subaccount_2                                923.00            923            923
+scc_system_mapping.system                                   66.00             66             66
+scc_system_mapping.system_1                                 69.00             69             69
+scc_system_mapping.system_2                                 88.00             88             88
+scc_system_mapping_resource.resource                        62.00             62             62
+scc_system_mapping_resource.resource_1                      73.00             73             73
+scc_system_mapping_resource.resource_2                     199.00            199            199
+sci_application.app                                        358.00            358            358
+sci_application.app_1                                      360.00            360            360
+sci_application.app_2                                      406.00            406            406
+sci_group_base.group_1                                     374.00            374            374
+sci_group_base.group_2                                     125.00            125            125
+sci_user.user                                              325.00            325            325
+sci_user.user_1                                            100.00            100            100
+sci_user.user_2                                            345.00            345            345
+
+Grouped results:
+-------                                 ------------    -----------    -----------
+Element                                 Average (ms)   Minimum (ms)   Maximum (ms)
+btp_directory.*                              5803.67           2667          10144
+btp_subaccount.*                             1776.00           1471           2039
+btp_subaccount_entitlement.*                18414.67          15077          20529
+btp_subaccount_environment_instance.*        2267.33           1347           3216
+btp_subaccount_role.*                        3930.00           2084           6928
+btp_subaccount_role_collection.*             3986.33           2221           7111
+btp_subaccount_service_instance.*            4324.50           4230           4419
+btp_subaccount_subscription.*                6352.00           3744           8960
+btp_subaccount_trust_configuration.*         3858.00           1599           7058
+cloudfoundry_service_instance.*                66.00             52             82
+cloudfoundry_space.*                          164.00            162            167
+scc_subaccount.*                             1134.67            923           1296
+scc_system_mapping.*                           74.33             66             88
+scc_system_mapping_resource.*                 111.33             62            199
+sci_application.*                             374.67            358            406
+sci_group_base.*                              249.50            125            374
+sci_user.*                                    256.67            100            345
+
+Total wall-clock time: 25.142939s
+Average wall-clock time: 25.142939s
+Minimum wall-clock time: 25.142939s
+Maximum wall-clock time: 25.142939s
+Total Ressources: 51

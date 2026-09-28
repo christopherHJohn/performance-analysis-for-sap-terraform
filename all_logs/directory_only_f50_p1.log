@@ -1,0 +1,607 @@
+Running terraform plan -refresh-only 10 time(s)
+Using Terraform parallelism: 1
+
+Run 1/10:
+  Total run time: 8.483364s
+  btp_directory.directory_1                                              143ms
+  btp_directory.directory_10                                             133ms
+  btp_directory.directory_11                                             152ms
+  btp_directory.directory_12                                             154ms
+  btp_directory.directory_13                                             139ms
+  btp_directory.directory_14                                             137ms
+  btp_directory.directory_15                                             148ms
+  btp_directory.directory_16                                             143ms
+  btp_directory.directory_17                                             146ms
+  btp_directory.directory_18                                             164ms
+  btp_directory.directory_19                                             130ms
+  btp_directory.directory_2                                              137ms
+  btp_directory.directory_20                                             156ms
+  btp_directory.directory_21                                             133ms
+  btp_directory.directory_22                                             144ms
+  btp_directory.directory_23                                             163ms
+  btp_directory.directory_24                                             131ms
+  btp_directory.directory_25                                             157ms
+  btp_directory.directory_26                                             161ms
+  btp_directory.directory_27                                             149ms
+  btp_directory.directory_28                                             165ms
+  btp_directory.directory_29                                             147ms
+  btp_directory.directory_3                                              139ms
+  btp_directory.directory_30                                             293ms
+  btp_directory.directory_31                                             141ms
+  btp_directory.directory_32                                             147ms
+  btp_directory.directory_33                                             160ms
+  btp_directory.directory_34                                             162ms
+  btp_directory.directory_35                                             149ms
+  btp_directory.directory_36                                             137ms
+  btp_directory.directory_37                                             130ms
+  btp_directory.directory_38                                             141ms
+  btp_directory.directory_39                                             162ms
+  btp_directory.directory_4                                              157ms
+  btp_directory.directory_40                                             152ms
+  btp_directory.directory_41                                             166ms
+  btp_directory.directory_42                                             144ms
+  btp_directory.directory_43                                             202ms
+  btp_directory.directory_44                                             149ms
+  btp_directory.directory_45                                             161ms
+  btp_directory.directory_46                                             145ms
+  btp_directory.directory_47                                             148ms
+  btp_directory.directory_48                                             145ms
+  btp_directory.directory_49                                             138ms
+  btp_directory.directory_5                                              156ms
+  btp_directory.directory_50                                             126ms
+  btp_directory.directory_6                                              165ms
+  btp_directory.directory_7                                              156ms
+  btp_directory.directory_8                                              146ms
+  btp_directory.directory_9                                              141ms
+
+
+Run 2/10:
+  Total run time: 8.455072s
+  btp_directory.directory_1                                              160ms
+  btp_directory.directory_10                                             133ms
+  btp_directory.directory_11                                             152ms
+  btp_directory.directory_12                                             155ms
+  btp_directory.directory_13                                             149ms
+  btp_directory.directory_14                                             130ms
+  btp_directory.directory_15                                             153ms
+  btp_directory.directory_16                                             156ms
+  btp_directory.directory_17                                             152ms
+  btp_directory.directory_18                                             147ms
+  btp_directory.directory_19                                             139ms
+  btp_directory.directory_2                                              156ms
+  btp_directory.directory_20                                             155ms
+  btp_directory.directory_21                                             127ms
+  btp_directory.directory_22                                             132ms
+  btp_directory.directory_23                                             133ms
+  btp_directory.directory_24                                             316ms
+  btp_directory.directory_25                                             163ms
+  btp_directory.directory_26                                             171ms
+  btp_directory.directory_27                                             158ms
+  btp_directory.directory_28                                             136ms
+  btp_directory.directory_29                                             150ms
+  btp_directory.directory_3                                              138ms
+  btp_directory.directory_30                                             160ms
+  btp_directory.directory_31                                             164ms
+  btp_directory.directory_32                                             150ms
+  btp_directory.directory_33                                             167ms
+  btp_directory.directory_34                                             150ms
+  btp_directory.directory_35                                             166ms
+  btp_directory.directory_36                                             162ms
+  btp_directory.directory_37                                             163ms
+  btp_directory.directory_38                                             136ms
+  btp_directory.directory_39                                             165ms
+  btp_directory.directory_4                                              140ms
+  btp_directory.directory_40                                             134ms
+  btp_directory.directory_41                                             143ms
+  btp_directory.directory_42                                             155ms
+  btp_directory.directory_43                                             128ms
+  btp_directory.directory_44                                             139ms
+  btp_directory.directory_45                                             150ms
+  btp_directory.directory_46                                             145ms
+  btp_directory.directory_47                                             150ms
+  btp_directory.directory_48                                             154ms
+  btp_directory.directory_49                                             128ms
+  btp_directory.directory_5                                              155ms
+  btp_directory.directory_50                                             135ms
+  btp_directory.directory_6                                              127ms
+  btp_directory.directory_7                                              137ms
+  btp_directory.directory_8                                              145ms
+  btp_directory.directory_9                                              143ms
+
+
+Run 3/10:
+  Total run time: 8.423080s
+  btp_directory.directory_1                                              147ms
+  btp_directory.directory_10                                             142ms
+  btp_directory.directory_11                                             144ms
+  btp_directory.directory_12                                             150ms
+  btp_directory.directory_13                                             304ms
+  btp_directory.directory_14                                             146ms
+  btp_directory.directory_15                                             142ms
+  btp_directory.directory_16                                             131ms
+  btp_directory.directory_17                                             139ms
+  btp_directory.directory_18                                             196ms
+  btp_directory.directory_19                                             127ms
+  btp_directory.directory_2                                              147ms
+  btp_directory.directory_20                                             139ms
+  btp_directory.directory_21                                             143ms
+  btp_directory.directory_22                                             132ms
+  btp_directory.directory_23                                             136ms
+  btp_directory.directory_24                                             143ms
+  btp_directory.directory_25                                             141ms
+  btp_directory.directory_26                                             138ms
+  btp_directory.directory_27                                             137ms
+  btp_directory.directory_28                                             139ms
+  btp_directory.directory_29                                             132ms
+  btp_directory.directory_3                                              127ms
+  btp_directory.directory_30                                             182ms
+  btp_directory.directory_31                                             130ms
+  btp_directory.directory_32                                             133ms
+  btp_directory.directory_33                                             149ms
+  btp_directory.directory_34                                             150ms
+  btp_directory.directory_35                                             196ms
+  btp_directory.directory_36                                             142ms
+  btp_directory.directory_37                                             134ms
+  btp_directory.directory_38                                             141ms
+  btp_directory.directory_39                                             161ms
+  btp_directory.directory_4                                              135ms
+  btp_directory.directory_40                                             142ms
+  btp_directory.directory_41                                             182ms
+  btp_directory.directory_42                                             140ms
+  btp_directory.directory_43                                             145ms
+  btp_directory.directory_44                                             159ms
+  btp_directory.directory_45                                             142ms
+  btp_directory.directory_46                                             162ms
+  btp_directory.directory_47                                             158ms
+  btp_directory.directory_48                                             160ms
+  btp_directory.directory_49                                             167ms
+  btp_directory.directory_5                                              136ms
+  btp_directory.directory_50                                             132ms
+  btp_directory.directory_6                                              138ms
+  btp_directory.directory_7                                              150ms
+  btp_directory.directory_8                                              145ms
+  btp_directory.directory_9                                              158ms
+
+
+Run 4/10:
+  Total run time: 8.289410s
+  btp_directory.directory_1                                              140ms
+  btp_directory.directory_10                                             142ms
+  btp_directory.directory_11                                             160ms
+  btp_directory.directory_12                                             166ms
+  btp_directory.directory_13                                             133ms
+  btp_directory.directory_14                                             146ms
+  btp_directory.directory_15                                             121ms
+  btp_directory.directory_16                                             150ms
+  btp_directory.directory_17                                             154ms
+  btp_directory.directory_18                                             138ms
+  btp_directory.directory_19                                             143ms
+  btp_directory.directory_2                                              134ms
+  btp_directory.directory_20                                             160ms
+  btp_directory.directory_21                                             139ms
+  btp_directory.directory_22                                             138ms
+  btp_directory.directory_23                                             137ms
+  btp_directory.directory_24                                             131ms
+  btp_directory.directory_25                                             133ms
+  btp_directory.directory_26                                             151ms
+  btp_directory.directory_27                                             153ms
+  btp_directory.directory_28                                             130ms
+  btp_directory.directory_29                                             170ms
+  btp_directory.directory_3                                              150ms
+  btp_directory.directory_30                                             301ms
+  btp_directory.directory_31                                             154ms
+  btp_directory.directory_32                                             157ms
+  btp_directory.directory_33                                             146ms
+  btp_directory.directory_34                                             132ms
+  btp_directory.directory_35                                             140ms
+  btp_directory.directory_36                                             143ms
+  btp_directory.directory_37                                             136ms
+  btp_directory.directory_38                                             155ms
+  btp_directory.directory_39                                             138ms
+  btp_directory.directory_4                                              140ms
+  btp_directory.directory_40                                             133ms
+  btp_directory.directory_41                                             166ms
+  btp_directory.directory_42                                             143ms
+  btp_directory.directory_43                                             148ms
+  btp_directory.directory_44                                             134ms
+  btp_directory.directory_45                                             127ms
+  btp_directory.directory_46                                             150ms
+  btp_directory.directory_47                                             133ms
+  btp_directory.directory_48                                             133ms
+  btp_directory.directory_49                                             146ms
+  btp_directory.directory_5                                              150ms
+  btp_directory.directory_50                                             159ms
+  btp_directory.directory_6                                              136ms
+  btp_directory.directory_7                                              131ms
+  btp_directory.directory_8                                              145ms
+  btp_directory.directory_9                                              128ms
+
+
+Run 5/10:
+  Total run time: 8.391354s
+  btp_directory.directory_1                                              145ms
+  btp_directory.directory_10                                             140ms
+  btp_directory.directory_11                                             159ms
+  btp_directory.directory_12                                             132ms
+  btp_directory.directory_13                                             125ms
+  btp_directory.directory_14                                             152ms
+  btp_directory.directory_15                                             153ms
+  btp_directory.directory_16                                             161ms
+  btp_directory.directory_17                                             158ms
+  btp_directory.directory_18                                             137ms
+  btp_directory.directory_19                                             162ms
+  btp_directory.directory_2                                              151ms
+  btp_directory.directory_20                                             150ms
+  btp_directory.directory_21                                             147ms
+  btp_directory.directory_22                                             144ms
+  btp_directory.directory_23                                             144ms
+  btp_directory.directory_24                                             140ms
+  btp_directory.directory_25                                             148ms
+  btp_directory.directory_26                                             158ms
+  btp_directory.directory_27                                             122ms
+  btp_directory.directory_28                                             154ms
+  btp_directory.directory_29                                             138ms
+  btp_directory.directory_3                                              127ms
+  btp_directory.directory_30                                             133ms
+  btp_directory.directory_31                                             135ms
+  btp_directory.directory_32                                             138ms
+  btp_directory.directory_33                                             159ms
+  btp_directory.directory_34                                             146ms
+  btp_directory.directory_35                                             139ms
+  btp_directory.directory_36                                             146ms
+  btp_directory.directory_37                                             135ms
+  btp_directory.directory_38                                             152ms
+  btp_directory.directory_39                                             150ms
+  btp_directory.directory_4                                              158ms
+  btp_directory.directory_40                                             143ms
+  btp_directory.directory_41                                             135ms
+  btp_directory.directory_42                                             144ms
+  btp_directory.directory_43                                             138ms
+  btp_directory.directory_44                                             158ms
+  btp_directory.directory_45                                             148ms
+  btp_directory.directory_46                                             152ms
+  btp_directory.directory_47                                             188ms
+  btp_directory.directory_48                                             139ms
+  btp_directory.directory_49                                             146ms
+  btp_directory.directory_5                                              175ms
+  btp_directory.directory_50                                             170ms
+  btp_directory.directory_6                                              149ms
+  btp_directory.directory_7                                              141ms
+  btp_directory.directory_8                                              340ms
+  btp_directory.directory_9                                              131ms
+
+
+Run 6/10:
+  Total run time: 8.402459s
+  btp_directory.directory_1                                              138ms
+  btp_directory.directory_10                                             127ms
+  btp_directory.directory_11                                             136ms
+  btp_directory.directory_12                                             145ms
+  btp_directory.directory_13                                             166ms
+  btp_directory.directory_14                                             140ms
+  btp_directory.directory_15                                             171ms
+  btp_directory.directory_16                                             145ms
+  btp_directory.directory_17                                             147ms
+  btp_directory.directory_18                                             137ms
+  btp_directory.directory_19                                             124ms
+  btp_directory.directory_2                                              131ms
+  btp_directory.directory_20                                             192ms
+  btp_directory.directory_21                                             147ms
+  btp_directory.directory_22                                             137ms
+  btp_directory.directory_23                                             137ms
+  btp_directory.directory_24                                             148ms
+  btp_directory.directory_25                                             140ms
+  btp_directory.directory_26                                             144ms
+  btp_directory.directory_27                                             293ms
+  btp_directory.directory_28                                             143ms
+  btp_directory.directory_29                                             165ms
+  btp_directory.directory_3                                              141ms
+  btp_directory.directory_30                                             130ms
+  btp_directory.directory_31                                             155ms
+  btp_directory.directory_32                                             161ms
+  btp_directory.directory_33                                             151ms
+  btp_directory.directory_34                                             131ms
+  btp_directory.directory_35                                             171ms
+  btp_directory.directory_36                                             155ms
+  btp_directory.directory_37                                             129ms
+  btp_directory.directory_38                                             165ms
+  btp_directory.directory_39                                             130ms
+  btp_directory.directory_4                                              140ms
+  btp_directory.directory_40                                             152ms
+  btp_directory.directory_41                                             176ms
+  btp_directory.directory_42                                             146ms
+  btp_directory.directory_43                                             135ms
+  btp_directory.directory_44                                             163ms
+  btp_directory.directory_45                                             147ms
+  btp_directory.directory_46                                             143ms
+  btp_directory.directory_47                                             173ms
+  btp_directory.directory_48                                             152ms
+  btp_directory.directory_49                                             144ms
+  btp_directory.directory_5                                              152ms
+  btp_directory.directory_50                                             145ms
+  btp_directory.directory_6                                              131ms
+  btp_directory.directory_7                                              176ms
+  btp_directory.directory_8                                              157ms
+  btp_directory.directory_9                                              143ms
+
+
+Run 7/10:
+  Total run time: 8.254682s
+  btp_directory.directory_1                                              161ms
+  btp_directory.directory_10                                             141ms
+  btp_directory.directory_11                                             142ms
+  btp_directory.directory_12                                             152ms
+  btp_directory.directory_13                                             167ms
+  btp_directory.directory_14                                             135ms
+  btp_directory.directory_15                                             133ms
+  btp_directory.directory_16                                             152ms
+  btp_directory.directory_17                                             158ms
+  btp_directory.directory_18                                             131ms
+  btp_directory.directory_19                                             158ms
+  btp_directory.directory_2                                              136ms
+  btp_directory.directory_20                                             182ms
+  btp_directory.directory_21                                             147ms
+  btp_directory.directory_22                                             140ms
+  btp_directory.directory_23                                             123ms
+  btp_directory.directory_24                                             141ms
+  btp_directory.directory_25                                             129ms
+  btp_directory.directory_26                                             173ms
+  btp_directory.directory_27                                             130ms
+  btp_directory.directory_28                                             138ms
+  btp_directory.directory_29                                             173ms
+  btp_directory.directory_3                                              139ms
+  btp_directory.directory_30                                             161ms
+  btp_directory.directory_31                                             134ms
+  btp_directory.directory_32                                             142ms
+  btp_directory.directory_33                                             136ms
+  btp_directory.directory_34                                             138ms
+  btp_directory.directory_35                                             174ms
+  btp_directory.directory_36                                             132ms
+  btp_directory.directory_37                                             166ms
+  btp_directory.directory_38                                             141ms
+  btp_directory.directory_39                                             143ms
+  btp_directory.directory_4                                              136ms
+  btp_directory.directory_40                                             138ms
+  btp_directory.directory_41                                             138ms
+  btp_directory.directory_42                                             137ms
+  btp_directory.directory_43                                             141ms
+  btp_directory.directory_44                                             136ms
+  btp_directory.directory_45                                             144ms
+  btp_directory.directory_46                                             125ms
+  btp_directory.directory_47                                             125ms
+  btp_directory.directory_48                                             138ms
+  btp_directory.directory_49                                             126ms
+  btp_directory.directory_5                                              143ms
+  btp_directory.directory_50                                             294ms
+  btp_directory.directory_6                                              144ms
+  btp_directory.directory_7                                              143ms
+  btp_directory.directory_8                                              162ms
+  btp_directory.directory_9                                              186ms
+
+
+Run 8/10:
+  Total run time: 8.308032s
+  btp_directory.directory_1                                              156ms
+  btp_directory.directory_10                                             168ms
+  btp_directory.directory_11                                             144ms
+  btp_directory.directory_12                                             142ms
+  btp_directory.directory_13                                             145ms
+  btp_directory.directory_14                                             143ms
+  btp_directory.directory_15                                             153ms
+  btp_directory.directory_16                                             145ms
+  btp_directory.directory_17                                             160ms
+  btp_directory.directory_18                                             147ms
+  btp_directory.directory_19                                             184ms
+  btp_directory.directory_2                                              163ms
+  btp_directory.directory_20                                             142ms
+  btp_directory.directory_21                                             134ms
+  btp_directory.directory_22                                             125ms
+  btp_directory.directory_23                                             153ms
+  btp_directory.directory_24                                             144ms
+  btp_directory.directory_25                                             139ms
+  btp_directory.directory_26                                             147ms
+  btp_directory.directory_27                                             127ms
+  btp_directory.directory_28                                             137ms
+  btp_directory.directory_29                                             130ms
+  btp_directory.directory_3                                              157ms
+  btp_directory.directory_30                                             119ms
+  btp_directory.directory_31                                             170ms
+  btp_directory.directory_32                                             137ms
+  btp_directory.directory_33                                             140ms
+  btp_directory.directory_34                                             125ms
+  btp_directory.directory_35                                             146ms
+  btp_directory.directory_36                                             147ms
+  btp_directory.directory_37                                             146ms
+  btp_directory.directory_38                                             129ms
+  btp_directory.directory_39                                             124ms
+  btp_directory.directory_4                                              155ms
+  btp_directory.directory_40                                             146ms
+  btp_directory.directory_41                                             132ms
+  btp_directory.directory_42                                             142ms
+  btp_directory.directory_43                                             141ms
+  btp_directory.directory_44                                             130ms
+  btp_directory.directory_45                                             140ms
+  btp_directory.directory_46                                             139ms
+  btp_directory.directory_47                                             130ms
+  btp_directory.directory_48                                             171ms
+  btp_directory.directory_49                                             157ms
+  btp_directory.directory_5                                              131ms
+  btp_directory.directory_50                                             149ms
+  btp_directory.directory_6                                              155ms
+  btp_directory.directory_7                                              146ms
+  btp_directory.directory_8                                              302ms
+  btp_directory.directory_9                                              151ms
+
+
+Run 9/10:
+  Total run time: 8.367262s
+  btp_directory.directory_1                                              153ms
+  btp_directory.directory_10                                             159ms
+  btp_directory.directory_11                                             285ms
+  btp_directory.directory_12                                             155ms
+  btp_directory.directory_13                                             134ms
+  btp_directory.directory_14                                             123ms
+  btp_directory.directory_15                                             135ms
+  btp_directory.directory_16                                             138ms
+  btp_directory.directory_17                                             161ms
+  btp_directory.directory_18                                             190ms
+  btp_directory.directory_19                                             136ms
+  btp_directory.directory_2                                              166ms
+  btp_directory.directory_20                                             141ms
+  btp_directory.directory_21                                             140ms
+  btp_directory.directory_22                                             125ms
+  btp_directory.directory_23                                             165ms
+  btp_directory.directory_24                                             146ms
+  btp_directory.directory_25                                             161ms
+  btp_directory.directory_26                                             156ms
+  btp_directory.directory_27                                             144ms
+  btp_directory.directory_28                                             134ms
+  btp_directory.directory_29                                             147ms
+  btp_directory.directory_3                                              144ms
+  btp_directory.directory_30                                             150ms
+  btp_directory.directory_31                                             142ms
+  btp_directory.directory_32                                             130ms
+  btp_directory.directory_33                                             137ms
+  btp_directory.directory_34                                             147ms
+  btp_directory.directory_35                                             146ms
+  btp_directory.directory_36                                             172ms
+  btp_directory.directory_37                                             151ms
+  btp_directory.directory_38                                             136ms
+  btp_directory.directory_39                                             134ms
+  btp_directory.directory_4                                              143ms
+  btp_directory.directory_40                                             134ms
+  btp_directory.directory_41                                             136ms
+  btp_directory.directory_42                                             144ms
+  btp_directory.directory_43                                             133ms
+  btp_directory.directory_44                                             133ms
+  btp_directory.directory_45                                             137ms
+  btp_directory.directory_46                                             130ms
+  btp_directory.directory_47                                             133ms
+  btp_directory.directory_48                                             160ms
+  btp_directory.directory_49                                             161ms
+  btp_directory.directory_5                                              147ms
+  btp_directory.directory_50                                             150ms
+  btp_directory.directory_6                                              178ms
+  btp_directory.directory_7                                              199ms
+  btp_directory.directory_8                                              144ms
+  btp_directory.directory_9                                              141ms
+
+
+Run 10/10:
+  Total run time: 8.221425s
+  btp_directory.directory_1                                              132ms
+  btp_directory.directory_10                                             156ms
+  btp_directory.directory_11                                             135ms
+  btp_directory.directory_12                                             132ms
+  btp_directory.directory_13                                             132ms
+  btp_directory.directory_14                                             144ms
+  btp_directory.directory_15                                             164ms
+  btp_directory.directory_16                                             132ms
+  btp_directory.directory_17                                             141ms
+  btp_directory.directory_18                                             133ms
+  btp_directory.directory_19                                             307ms
+  btp_directory.directory_2                                              134ms
+  btp_directory.directory_20                                             145ms
+  btp_directory.directory_21                                             150ms
+  btp_directory.directory_22                                             144ms
+  btp_directory.directory_23                                             130ms
+  btp_directory.directory_24                                             171ms
+  btp_directory.directory_25                                             136ms
+  btp_directory.directory_26                                             134ms
+  btp_directory.directory_27                                             168ms
+  btp_directory.directory_28                                             168ms
+  btp_directory.directory_29                                             161ms
+  btp_directory.directory_3                                              142ms
+  btp_directory.directory_30                                             141ms
+  btp_directory.directory_31                                             136ms
+  btp_directory.directory_32                                             148ms
+  btp_directory.directory_33                                             130ms
+  btp_directory.directory_34                                             191ms
+  btp_directory.directory_35                                             129ms
+  btp_directory.directory_36                                             134ms
+  btp_directory.directory_37                                             132ms
+  btp_directory.directory_38                                             136ms
+  btp_directory.directory_39                                             191ms
+  btp_directory.directory_4                                              144ms
+  btp_directory.directory_40                                             154ms
+  btp_directory.directory_41                                             127ms
+  btp_directory.directory_42                                             125ms
+  btp_directory.directory_43                                             165ms
+  btp_directory.directory_44                                             137ms
+  btp_directory.directory_45                                             144ms
+  btp_directory.directory_46                                             131ms
+  btp_directory.directory_47                                             148ms
+  btp_directory.directory_48                                             146ms
+  btp_directory.directory_49                                             136ms
+  btp_directory.directory_5                                              142ms
+  btp_directory.directory_50                                             144ms
+  btp_directory.directory_6                                              117ms
+  btp_directory.directory_7                                              119ms
+  btp_directory.directory_8                                              144ms
+  btp_directory.directory_9                                              125ms
+
+
+Final results:
+-------                                ------------    -----------    -----------
+Element                                Average (ms)   Minimum (ms)   Maximum (ms)
+btp_directory.directory_1                    147.50            132            161
+btp_directory.directory_10                   144.10            127            168
+btp_directory.directory_11                   160.90            135            285
+btp_directory.directory_12                   148.30            132            166
+btp_directory.directory_13                   159.40            125            304
+btp_directory.directory_14                   139.60            123            152
+btp_directory.directory_15                   147.30            121            171
+btp_directory.directory_16                   145.30            131            161
+btp_directory.directory_17                   151.60            139            161
+btp_directory.directory_18                   152.00            131            196
+btp_directory.directory_19                   161.00            124            307
+btp_directory.directory_2                    145.50            131            166
+btp_directory.directory_20                   156.20            139            192
+btp_directory.directory_21                   140.70            127            150
+btp_directory.directory_22                   136.10            125            144
+btp_directory.directory_23                   142.10            123            165
+btp_directory.directory_24                   161.10            131            316
+btp_directory.directory_25                   144.70            129            163
+btp_directory.directory_26                   153.30            134            173
+btp_directory.directory_27                   158.10            122            293
+btp_directory.directory_28                   144.40            130            168
+btp_directory.directory_29                   151.30            130            173
+btp_directory.directory_3                    140.40            127            157
+btp_directory.directory_30                   177.00            119            301
+btp_directory.directory_31                   146.10            130            170
+btp_directory.directory_32                   144.30            130            161
+btp_directory.directory_33                   147.50            130            167
+btp_directory.directory_34                   147.20            125            191
+btp_directory.directory_35                   155.60            129            196
+btp_directory.directory_36                   147.00            132            172
+btp_directory.directory_37                   142.20            129            166
+btp_directory.directory_38                   143.20            129            165
+btp_directory.directory_39                   149.80            124            191
+btp_directory.directory_4                    144.80            135            158
+btp_directory.directory_40                   142.80            133            154
+btp_directory.directory_41                   150.10            127            182
+btp_directory.directory_42                   142.00            125            155
+btp_directory.directory_43                   147.60            128            202
+btp_directory.directory_44                   143.80            130            163
+btp_directory.directory_45                   144.00            127            161
+btp_directory.directory_46                   142.20            125            162
+btp_directory.directory_47                   148.60            125            188
+btp_directory.directory_48                   149.80            133            171
+btp_directory.directory_49                   144.90            126            167
+btp_directory.directory_5                    148.70            131            175
+btp_directory.directory_50                   160.40            126            294
+btp_directory.directory_6                    144.00            117            178
+btp_directory.directory_7                    149.80            119            199
+btp_directory.directory_8                    183.00            144            340
+btp_directory.directory_9                    144.70            125            186
+
+Grouped results:
+-------                                ------------    -----------    -----------
+Element                                Average (ms)   Minimum (ms)   Maximum (ms)
+btp_directory.*                              149.24            117            340
+
+Total wall-clock time: 83.596140s
+Average wall-clock time: 8.359614s
+Minimum wall-clock time: 8.221425s
+Maximum wall-clock time: 8.483364s
+Total Ressources: 50

@@ -1,0 +1,1147 @@
+Running terraform plan -refresh-only 20 time(s)
+Using Terraform parallelism: 50
+
+Run 1/20:
+  Total run time: 0.778942s
+  sci_group_base.group_1                                                 272ms
+  sci_group_base.group_10                                                310ms
+  sci_group_base.group_11                                                316ms
+  sci_group_base.group_12                                                288ms
+  sci_group_base.group_13                                                275ms
+  sci_group_base.group_14                                                315ms
+  sci_group_base.group_15                                                294ms
+  sci_group_base.group_16                                                312ms
+  sci_group_base.group_17                                                307ms
+  sci_group_base.group_18                                                327ms
+  sci_group_base.group_19                                                309ms
+  sci_group_base.group_2                                                 309ms
+  sci_group_base.group_20                                                307ms
+  sci_group_base.group_21                                                307ms
+  sci_group_base.group_22                                                316ms
+  sci_group_base.group_23                                                298ms
+  sci_group_base.group_24                                                336ms
+  sci_group_base.group_25                                                258ms
+  sci_group_base.group_26                                                310ms
+  sci_group_base.group_27                                                270ms
+  sci_group_base.group_28                                                294ms
+  sci_group_base.group_29                                                289ms
+  sci_group_base.group_3                                                 305ms
+  sci_group_base.group_30                                                298ms
+  sci_group_base.group_31                                                286ms
+  sci_group_base.group_32                                                296ms
+  sci_group_base.group_33                                                297ms
+  sci_group_base.group_34                                                299ms
+  sci_group_base.group_35                                                310ms
+  sci_group_base.group_36                                                315ms
+  sci_group_base.group_37                                                274ms
+  sci_group_base.group_38                                                278ms
+  sci_group_base.group_39                                                268ms
+  sci_group_base.group_4                                                 272ms
+  sci_group_base.group_40                                                299ms
+  sci_group_base.group_41                                                267ms
+  sci_group_base.group_42                                                312ms
+  sci_group_base.group_43                                                295ms
+  sci_group_base.group_44                                                325ms
+  sci_group_base.group_45                                                332ms
+  sci_group_base.group_46                                                308ms
+  sci_group_base.group_47                                                316ms
+  sci_group_base.group_48                                                256ms
+  sci_group_base.group_49                                                275ms
+  sci_group_base.group_5                                                 324ms
+  sci_group_base.group_50                                                329ms
+  sci_group_base.group_6                                                 214ms
+  sci_group_base.group_7                                                 326ms
+  sci_group_base.group_8                                                 288ms
+  sci_group_base.group_9                                                 288ms
+
+
+Run 2/20:
+  Total run time: 0.792282s
+  sci_group_base.group_1                                                 296ms
+  sci_group_base.group_10                                                336ms
+  sci_group_base.group_11                                                287ms
+  sci_group_base.group_12                                                271ms
+  sci_group_base.group_13                                                331ms
+  sci_group_base.group_14                                                299ms
+  sci_group_base.group_15                                                303ms
+  sci_group_base.group_16                                                322ms
+  sci_group_base.group_17                                                301ms
+  sci_group_base.group_18                                                297ms
+  sci_group_base.group_19                                                326ms
+  sci_group_base.group_2                                                 294ms
+  sci_group_base.group_20                                                328ms
+  sci_group_base.group_21                                                279ms
+  sci_group_base.group_22                                                283ms
+  sci_group_base.group_23                                                293ms
+  sci_group_base.group_24                                                369ms
+  sci_group_base.group_25                                                297ms
+  sci_group_base.group_26                                                331ms
+  sci_group_base.group_27                                                325ms
+  sci_group_base.group_28                                                287ms
+  sci_group_base.group_29                                                297ms
+  sci_group_base.group_3                                                 295ms
+  sci_group_base.group_30                                                293ms
+  sci_group_base.group_31                                                345ms
+  sci_group_base.group_32                                                312ms
+  sci_group_base.group_33                                                299ms
+  sci_group_base.group_34                                                330ms
+  sci_group_base.group_35                                                289ms
+  sci_group_base.group_36                                                302ms
+  sci_group_base.group_37                                                271ms
+  sci_group_base.group_38                                                295ms
+  sci_group_base.group_39                                                289ms
+  sci_group_base.group_4                                                 295ms
+  sci_group_base.group_40                                                297ms
+  sci_group_base.group_41                                                335ms
+  sci_group_base.group_42                                                290ms
+  sci_group_base.group_43                                                340ms
+  sci_group_base.group_44                                                325ms
+  sci_group_base.group_45                                                315ms
+  sci_group_base.group_46                                                301ms
+  sci_group_base.group_47                                                273ms
+  sci_group_base.group_48                                                283ms
+  sci_group_base.group_49                                                333ms
+  sci_group_base.group_5                                                 334ms
+  sci_group_base.group_50                                                326ms
+  sci_group_base.group_6                                                 312ms
+  sci_group_base.group_7                                                 325ms
+  sci_group_base.group_8                                                 306ms
+  sci_group_base.group_9                                                 303ms
+
+
+Run 3/20:
+  Total run time: 0.828507s
+  sci_group_base.group_1                                                 396ms
+  sci_group_base.group_10                                                331ms
+  sci_group_base.group_11                                                321ms
+  sci_group_base.group_12                                                303ms
+  sci_group_base.group_13                                                381ms
+  sci_group_base.group_14                                                323ms
+  sci_group_base.group_15                                                306ms
+  sci_group_base.group_16                                                335ms
+  sci_group_base.group_17                                                318ms
+  sci_group_base.group_18                                                325ms
+  sci_group_base.group_19                                                335ms
+  sci_group_base.group_2                                                 321ms
+  sci_group_base.group_20                                                318ms
+  sci_group_base.group_21                                                306ms
+  sci_group_base.group_22                                                339ms
+  sci_group_base.group_23                                                322ms
+  sci_group_base.group_24                                                309ms
+  sci_group_base.group_25                                                329ms
+  sci_group_base.group_26                                                331ms
+  sci_group_base.group_27                                                329ms
+  sci_group_base.group_28                                                330ms
+  sci_group_base.group_29                                                315ms
+  sci_group_base.group_3                                                 326ms
+  sci_group_base.group_30                                                319ms
+  sci_group_base.group_31                                                340ms
+  sci_group_base.group_32                                                350ms
+  sci_group_base.group_33                                                306ms
+  sci_group_base.group_34                                                347ms
+  sci_group_base.group_35                                                347ms
+  sci_group_base.group_36                                                329ms
+  sci_group_base.group_37                                                317ms
+  sci_group_base.group_38                                                382ms
+  sci_group_base.group_39                                                325ms
+  sci_group_base.group_4                                                 310ms
+  sci_group_base.group_40                                                302ms
+  sci_group_base.group_41                                                340ms
+  sci_group_base.group_42                                                363ms
+  sci_group_base.group_43                                                313ms
+  sci_group_base.group_44                                                307ms
+  sci_group_base.group_45                                                321ms
+  sci_group_base.group_46                                                314ms
+  sci_group_base.group_47                                                361ms
+  sci_group_base.group_48                                                333ms
+  sci_group_base.group_49                                                302ms
+  sci_group_base.group_5                                                 321ms
+  sci_group_base.group_50                                                339ms
+  sci_group_base.group_6                                                 260ms
+  sci_group_base.group_7                                                 329ms
+  sci_group_base.group_8                                                 327ms
+  sci_group_base.group_9                                                 312ms
+
+
+Run 4/20:
+  Total run time: 0.805033s
+  sci_group_base.group_1                                                 320ms
+  sci_group_base.group_10                                                323ms
+  sci_group_base.group_11                                                344ms
+  sci_group_base.group_12                                                340ms
+  sci_group_base.group_13                                                338ms
+  sci_group_base.group_14                                                348ms
+  sci_group_base.group_15                                                347ms
+  sci_group_base.group_16                                                317ms
+  sci_group_base.group_17                                                348ms
+  sci_group_base.group_18                                                340ms
+  sci_group_base.group_19                                                315ms
+  sci_group_base.group_2                                                 333ms
+  sci_group_base.group_20                                                310ms
+  sci_group_base.group_21                                                286ms
+  sci_group_base.group_22                                                330ms
+  sci_group_base.group_23                                                334ms
+  sci_group_base.group_24                                                321ms
+  sci_group_base.group_25                                                316ms
+  sci_group_base.group_26                                                324ms
+  sci_group_base.group_27                                                340ms
+  sci_group_base.group_28                                                352ms
+  sci_group_base.group_29                                                271ms
+  sci_group_base.group_3                                                 338ms
+  sci_group_base.group_30                                                314ms
+  sci_group_base.group_31                                                357ms
+  sci_group_base.group_32                                                341ms
+  sci_group_base.group_33                                                357ms
+  sci_group_base.group_34                                                323ms
+  sci_group_base.group_35                                                315ms
+  sci_group_base.group_36                                                294ms
+  sci_group_base.group_37                                                347ms
+  sci_group_base.group_38                                                358ms
+  sci_group_base.group_39                                                320ms
+  sci_group_base.group_4                                                 336ms
+  sci_group_base.group_40                                                335ms
+  sci_group_base.group_41                                                328ms
+  sci_group_base.group_42                                                325ms
+  sci_group_base.group_43                                                314ms
+  sci_group_base.group_44                                                356ms
+  sci_group_base.group_45                                                320ms
+  sci_group_base.group_46                                                338ms
+  sci_group_base.group_47                                                342ms
+  sci_group_base.group_48                                                276ms
+  sci_group_base.group_49                                                293ms
+  sci_group_base.group_5                                                 358ms
+  sci_group_base.group_50                                                345ms
+  sci_group_base.group_6                                                 352ms
+  sci_group_base.group_7                                                 329ms
+  sci_group_base.group_8                                                 286ms
+  sci_group_base.group_9                                                 343ms
+
+
+Run 5/20:
+  Total run time: 0.941783s
+  sci_group_base.group_1                                                 330ms
+  sci_group_base.group_10                                                320ms
+  sci_group_base.group_11                                                305ms
+  sci_group_base.group_12                                                307ms
+  sci_group_base.group_13                                                302ms
+  sci_group_base.group_14                                                302ms
+  sci_group_base.group_15                                                338ms
+  sci_group_base.group_16                                                331ms
+  sci_group_base.group_17                                                321ms
+  sci_group_base.group_18                                                347ms
+  sci_group_base.group_19                                                334ms
+  sci_group_base.group_2                                                 314ms
+  sci_group_base.group_20                                                336ms
+  sci_group_base.group_21                                                302ms
+  sci_group_base.group_22                                                322ms
+  sci_group_base.group_23                                                304ms
+  sci_group_base.group_24                                                314ms
+  sci_group_base.group_25                                                352ms
+  sci_group_base.group_26                                                334ms
+  sci_group_base.group_27                                                326ms
+  sci_group_base.group_28                                                305ms
+  sci_group_base.group_29                                                303ms
+  sci_group_base.group_3                                                 334ms
+  sci_group_base.group_30                                                305ms
+  sci_group_base.group_31                                                310ms
+  sci_group_base.group_32                                                503ms
+  sci_group_base.group_33                                                325ms
+  sci_group_base.group_34                                                332ms
+  sci_group_base.group_35                                                343ms
+  sci_group_base.group_36                                                344ms
+  sci_group_base.group_37                                                363ms
+  sci_group_base.group_38                                                306ms
+  sci_group_base.group_39                                                286ms
+  sci_group_base.group_4                                                 328ms
+  sci_group_base.group_40                                                353ms
+  sci_group_base.group_41                                                306ms
+  sci_group_base.group_42                                                301ms
+  sci_group_base.group_43                                                331ms
+  sci_group_base.group_44                                                264ms
+  sci_group_base.group_45                                                312ms
+  sci_group_base.group_46                                                326ms
+  sci_group_base.group_47                                                340ms
+  sci_group_base.group_48                                                316ms
+  sci_group_base.group_49                                                338ms
+  sci_group_base.group_5                                                 347ms
+  sci_group_base.group_50                                                333ms
+  sci_group_base.group_6                                                 325ms
+  sci_group_base.group_7                                                 335ms
+  sci_group_base.group_8                                                 303ms
+  sci_group_base.group_9                                                 313ms
+
+
+Run 6/20:
+  Total run time: 0.796333s
+  sci_group_base.group_1                                                 326ms
+  sci_group_base.group_10                                                331ms
+  sci_group_base.group_11                                                318ms
+  sci_group_base.group_12                                                301ms
+  sci_group_base.group_13                                                307ms
+  sci_group_base.group_14                                                293ms
+  sci_group_base.group_15                                                306ms
+  sci_group_base.group_16                                                313ms
+  sci_group_base.group_17                                                296ms
+  sci_group_base.group_18                                                320ms
+  sci_group_base.group_19                                                322ms
+  sci_group_base.group_2                                                 294ms
+  sci_group_base.group_20                                                309ms
+  sci_group_base.group_21                                                298ms
+  sci_group_base.group_22                                                329ms
+  sci_group_base.group_23                                                267ms
+  sci_group_base.group_24                                                332ms
+  sci_group_base.group_25                                                303ms
+  sci_group_base.group_26                                                297ms
+  sci_group_base.group_27                                                321ms
+  sci_group_base.group_28                                                316ms
+  sci_group_base.group_29                                                334ms
+  sci_group_base.group_3                                                 301ms
+  sci_group_base.group_30                                                327ms
+  sci_group_base.group_31                                                314ms
+  sci_group_base.group_32                                                296ms
+  sci_group_base.group_33                                                344ms
+  sci_group_base.group_34                                                317ms
+  sci_group_base.group_35                                                312ms
+  sci_group_base.group_36                                                285ms
+  sci_group_base.group_37                                                322ms
+  sci_group_base.group_38                                                296ms
+  sci_group_base.group_39                                                319ms
+  sci_group_base.group_4                                                 322ms
+  sci_group_base.group_40                                                316ms
+  sci_group_base.group_41                                                291ms
+  sci_group_base.group_42                                                319ms
+  sci_group_base.group_43                                                293ms
+  sci_group_base.group_44                                                305ms
+  sci_group_base.group_45                                                315ms
+  sci_group_base.group_46                                                292ms
+  sci_group_base.group_47                                                282ms
+  sci_group_base.group_48                                                324ms
+  sci_group_base.group_49                                                299ms
+  sci_group_base.group_5                                                 299ms
+  sci_group_base.group_50                                                313ms
+  sci_group_base.group_6                                                 293ms
+  sci_group_base.group_7                                                 318ms
+  sci_group_base.group_8                                                 305ms
+  sci_group_base.group_9                                                 301ms
+
+
+Run 7/20:
+  Total run time: 0.805580s
+  sci_group_base.group_1                                                 318ms
+  sci_group_base.group_10                                                290ms
+  sci_group_base.group_11                                                333ms
+  sci_group_base.group_12                                                319ms
+  sci_group_base.group_13                                                334ms
+  sci_group_base.group_14                                                339ms
+  sci_group_base.group_15                                                278ms
+  sci_group_base.group_16                                                327ms
+  sci_group_base.group_17                                                322ms
+  sci_group_base.group_18                                                323ms
+  sci_group_base.group_19                                                291ms
+  sci_group_base.group_2                                                 338ms
+  sci_group_base.group_20                                                335ms
+  sci_group_base.group_21                                                288ms
+  sci_group_base.group_22                                                304ms
+  sci_group_base.group_23                                                300ms
+  sci_group_base.group_24                                                351ms
+  sci_group_base.group_25                                                289ms
+  sci_group_base.group_26                                                303ms
+  sci_group_base.group_27                                                288ms
+  sci_group_base.group_28                                                338ms
+  sci_group_base.group_29                                                341ms
+  sci_group_base.group_3                                                 285ms
+  sci_group_base.group_30                                                323ms
+  sci_group_base.group_31                                                316ms
+  sci_group_base.group_32                                                322ms
+  sci_group_base.group_33                                                302ms
+  sci_group_base.group_34                                                295ms
+  sci_group_base.group_35                                                317ms
+  sci_group_base.group_36                                                349ms
+  sci_group_base.group_37                                                344ms
+  sci_group_base.group_38                                                338ms
+  sci_group_base.group_39                                                319ms
+  sci_group_base.group_4                                                 293ms
+  sci_group_base.group_40                                                288ms
+  sci_group_base.group_41                                                337ms
+  sci_group_base.group_42                                                302ms
+  sci_group_base.group_43                                                276ms
+  sci_group_base.group_44                                                337ms
+  sci_group_base.group_45                                                306ms
+  sci_group_base.group_46                                                320ms
+  sci_group_base.group_47                                                266ms
+  sci_group_base.group_48                                                322ms
+  sci_group_base.group_49                                                346ms
+  sci_group_base.group_5                                                 347ms
+  sci_group_base.group_50                                                285ms
+  sci_group_base.group_6                                                 285ms
+  sci_group_base.group_7                                                 341ms
+  sci_group_base.group_8                                                 247ms
+  sci_group_base.group_9                                                 325ms
+
+
+Run 8/20:
+  Total run time: 0.874135s
+  sci_group_base.group_1                                                 333ms
+  sci_group_base.group_10                                                333ms
+  sci_group_base.group_11                                                358ms
+  sci_group_base.group_12                                                334ms
+  sci_group_base.group_13                                                299ms
+  sci_group_base.group_14                                                328ms
+  sci_group_base.group_15                                                321ms
+  sci_group_base.group_16                                                327ms
+  sci_group_base.group_17                                                350ms
+  sci_group_base.group_18                                                337ms
+  sci_group_base.group_19                                                366ms
+  sci_group_base.group_2                                                 340ms
+  sci_group_base.group_20                                                333ms
+  sci_group_base.group_21                                                373ms
+  sci_group_base.group_22                                                328ms
+  sci_group_base.group_23                                                334ms
+  sci_group_base.group_24                                                362ms
+  sci_group_base.group_25                                                365ms
+  sci_group_base.group_26                                                359ms
+  sci_group_base.group_27                                                347ms
+  sci_group_base.group_28                                                325ms
+  sci_group_base.group_29                                                308ms
+  sci_group_base.group_3                                                 325ms
+  sci_group_base.group_30                                                336ms
+  sci_group_base.group_31                                                355ms
+  sci_group_base.group_32                                                344ms
+  sci_group_base.group_33                                                366ms
+  sci_group_base.group_34                                                322ms
+  sci_group_base.group_35                                                329ms
+  sci_group_base.group_36                                                342ms
+  sci_group_base.group_37                                                318ms
+  sci_group_base.group_38                                                358ms
+  sci_group_base.group_39                                                315ms
+  sci_group_base.group_4                                                 364ms
+  sci_group_base.group_40                                                329ms
+  sci_group_base.group_41                                                297ms
+  sci_group_base.group_42                                                335ms
+  sci_group_base.group_43                                                316ms
+  sci_group_base.group_44                                                342ms
+  sci_group_base.group_45                                                340ms
+  sci_group_base.group_46                                                404ms
+  sci_group_base.group_47                                                345ms
+  sci_group_base.group_48                                                325ms
+  sci_group_base.group_49                                                320ms
+  sci_group_base.group_5                                                 361ms
+  sci_group_base.group_50                                                325ms
+  sci_group_base.group_6                                                 331ms
+  sci_group_base.group_7                                                 340ms
+  sci_group_base.group_8                                                 323ms
+  sci_group_base.group_9                                                 351ms
+
+
+Run 9/20:
+  Total run time: 0.904875s
+  sci_group_base.group_1                                                 398ms
+  sci_group_base.group_10                                                413ms
+  sci_group_base.group_11                                                382ms
+  sci_group_base.group_12                                                373ms
+  sci_group_base.group_13                                                408ms
+  sci_group_base.group_14                                                403ms
+  sci_group_base.group_15                                                397ms
+  sci_group_base.group_16                                                379ms
+  sci_group_base.group_17                                                378ms
+  sci_group_base.group_18                                                394ms
+  sci_group_base.group_19                                                384ms
+  sci_group_base.group_2                                                 398ms
+  sci_group_base.group_20                                                413ms
+  sci_group_base.group_21                                                404ms
+  sci_group_base.group_22                                                402ms
+  sci_group_base.group_23                                                418ms
+  sci_group_base.group_24                                                403ms
+  sci_group_base.group_25                                                398ms
+  sci_group_base.group_26                                                405ms
+  sci_group_base.group_27                                                401ms
+  sci_group_base.group_28                                                403ms
+  sci_group_base.group_29                                                417ms
+  sci_group_base.group_3                                                 428ms
+  sci_group_base.group_30                                                418ms
+  sci_group_base.group_31                                                409ms
+  sci_group_base.group_32                                                387ms
+  sci_group_base.group_33                                                397ms
+  sci_group_base.group_34                                                395ms
+  sci_group_base.group_35                                                364ms
+  sci_group_base.group_36                                                412ms
+  sci_group_base.group_37                                                403ms
+  sci_group_base.group_38                                                323ms
+  sci_group_base.group_39                                                386ms
+  sci_group_base.group_4                                                 408ms
+  sci_group_base.group_40                                                438ms
+  sci_group_base.group_41                                                393ms
+  sci_group_base.group_42                                                394ms
+  sci_group_base.group_43                                                406ms
+  sci_group_base.group_44                                                409ms
+  sci_group_base.group_45                                                393ms
+  sci_group_base.group_46                                                363ms
+  sci_group_base.group_47                                                406ms
+  sci_group_base.group_48                                                360ms
+  sci_group_base.group_49                                                395ms
+  sci_group_base.group_5                                                 451ms
+  sci_group_base.group_50                                                393ms
+  sci_group_base.group_6                                                 391ms
+  sci_group_base.group_7                                                 403ms
+  sci_group_base.group_8                                                 398ms
+  sci_group_base.group_9                                                 387ms
+
+
+Run 10/20:
+  Total run time: 0.833730s
+  sci_group_base.group_1                                                 352ms
+  sci_group_base.group_10                                                352ms
+  sci_group_base.group_11                                                339ms
+  sci_group_base.group_12                                                362ms
+  sci_group_base.group_13                                                319ms
+  sci_group_base.group_14                                                417ms
+  sci_group_base.group_15                                                375ms
+  sci_group_base.group_16                                                343ms
+  sci_group_base.group_17                                                340ms
+  sci_group_base.group_18                                                347ms
+  sci_group_base.group_19                                                361ms
+  sci_group_base.group_2                                                 316ms
+  sci_group_base.group_20                                                365ms
+  sci_group_base.group_21                                                340ms
+  sci_group_base.group_22                                                361ms
+  sci_group_base.group_23                                                367ms
+  sci_group_base.group_24                                                370ms
+  sci_group_base.group_25                                                339ms
+  sci_group_base.group_26                                                321ms
+  sci_group_base.group_27                                                339ms
+  sci_group_base.group_28                                                346ms
+  sci_group_base.group_29                                                339ms
+  sci_group_base.group_3                                                 347ms
+  sci_group_base.group_30                                                392ms
+  sci_group_base.group_31                                                322ms
+  sci_group_base.group_32                                                359ms
+  sci_group_base.group_33                                                375ms
+  sci_group_base.group_34                                                369ms
+  sci_group_base.group_35                                                325ms
+  sci_group_base.group_36                                                338ms
+  sci_group_base.group_37                                                307ms
+  sci_group_base.group_38                                                343ms
+  sci_group_base.group_39                                                351ms
+  sci_group_base.group_4                                                 369ms
+  sci_group_base.group_40                                                352ms
+  sci_group_base.group_41                                                337ms
+  sci_group_base.group_42                                                397ms
+  sci_group_base.group_43                                                360ms
+  sci_group_base.group_44                                                377ms
+  sci_group_base.group_45                                                363ms
+  sci_group_base.group_46                                                334ms
+  sci_group_base.group_47                                                344ms
+  sci_group_base.group_48                                                313ms
+  sci_group_base.group_49                                                323ms
+  sci_group_base.group_5                                                 322ms
+  sci_group_base.group_50                                                350ms
+  sci_group_base.group_6                                                 352ms
+  sci_group_base.group_7                                                 299ms
+  sci_group_base.group_8                                                 335ms
+  sci_group_base.group_9                                                 326ms
+
+
+Run 11/20:
+  Total run time: 0.806611s
+  sci_group_base.group_1                                                 349ms
+  sci_group_base.group_10                                                345ms
+  sci_group_base.group_11                                                370ms
+  sci_group_base.group_12                                                338ms
+  sci_group_base.group_13                                                337ms
+  sci_group_base.group_14                                                355ms
+  sci_group_base.group_15                                                353ms
+  sci_group_base.group_16                                                373ms
+  sci_group_base.group_17                                                361ms
+  sci_group_base.group_18                                                386ms
+  sci_group_base.group_19                                                349ms
+  sci_group_base.group_2                                                 340ms
+  sci_group_base.group_20                                                345ms
+  sci_group_base.group_21                                                390ms
+  sci_group_base.group_22                                                378ms
+  sci_group_base.group_23                                                369ms
+  sci_group_base.group_24                                                371ms
+  sci_group_base.group_25                                                376ms
+  sci_group_base.group_26                                                381ms
+  sci_group_base.group_27                                                375ms
+  sci_group_base.group_28                                                364ms
+  sci_group_base.group_29                                                385ms
+  sci_group_base.group_3                                                 392ms
+  sci_group_base.group_30                                                339ms
+  sci_group_base.group_31                                                371ms
+  sci_group_base.group_32                                                363ms
+  sci_group_base.group_33                                                339ms
+  sci_group_base.group_34                                                366ms
+  sci_group_base.group_35                                                323ms
+  sci_group_base.group_36                                                385ms
+  sci_group_base.group_37                                                339ms
+  sci_group_base.group_38                                                319ms
+  sci_group_base.group_39                                                336ms
+  sci_group_base.group_4                                                 364ms
+  sci_group_base.group_40                                                329ms
+  sci_group_base.group_41                                                361ms
+  sci_group_base.group_42                                                348ms
+  sci_group_base.group_43                                                351ms
+  sci_group_base.group_44                                                353ms
+  sci_group_base.group_45                                                358ms
+  sci_group_base.group_46                                                358ms
+  sci_group_base.group_47                                                350ms
+  sci_group_base.group_48                                                357ms
+  sci_group_base.group_49                                                369ms
+  sci_group_base.group_5                                                 343ms
+  sci_group_base.group_50                                                363ms
+  sci_group_base.group_6                                                 338ms
+  sci_group_base.group_7                                                 317ms
+  sci_group_base.group_8                                                 392ms
+  sci_group_base.group_9                                                 391ms
+
+
+Run 12/20:
+  Total run time: 0.809431s
+  sci_group_base.group_1                                                 300ms
+  sci_group_base.group_10                                                315ms
+  sci_group_base.group_11                                                304ms
+  sci_group_base.group_12                                                310ms
+  sci_group_base.group_13                                                331ms
+  sci_group_base.group_14                                                320ms
+  sci_group_base.group_15                                                320ms
+  sci_group_base.group_16                                                299ms
+  sci_group_base.group_17                                                336ms
+  sci_group_base.group_18                                                306ms
+  sci_group_base.group_19                                                298ms
+  sci_group_base.group_2                                                 324ms
+  sci_group_base.group_20                                                325ms
+  sci_group_base.group_21                                                326ms
+  sci_group_base.group_22                                                317ms
+  sci_group_base.group_23                                                347ms
+  sci_group_base.group_24                                                330ms
+  sci_group_base.group_25                                                323ms
+  sci_group_base.group_26                                                346ms
+  sci_group_base.group_27                                                339ms
+  sci_group_base.group_28                                                349ms
+  sci_group_base.group_29                                                325ms
+  sci_group_base.group_3                                                 284ms
+  sci_group_base.group_30                                                318ms
+  sci_group_base.group_31                                                310ms
+  sci_group_base.group_32                                                311ms
+  sci_group_base.group_33                                                328ms
+  sci_group_base.group_34                                                328ms
+  sci_group_base.group_35                                                343ms
+  sci_group_base.group_36                                                287ms
+  sci_group_base.group_37                                                322ms
+  sci_group_base.group_38                                                347ms
+  sci_group_base.group_39                                                337ms
+  sci_group_base.group_4                                                 333ms
+  sci_group_base.group_40                                                289ms
+  sci_group_base.group_41                                                331ms
+  sci_group_base.group_42                                                254ms
+  sci_group_base.group_43                                                340ms
+  sci_group_base.group_44                                                303ms
+  sci_group_base.group_45                                                331ms
+  sci_group_base.group_46                                                330ms
+  sci_group_base.group_47                                                353ms
+  sci_group_base.group_48                                                325ms
+  sci_group_base.group_49                                                335ms
+  sci_group_base.group_5                                                 349ms
+  sci_group_base.group_50                                                323ms
+  sci_group_base.group_6                                                 340ms
+  sci_group_base.group_7                                                 283ms
+  sci_group_base.group_8                                                 344ms
+  sci_group_base.group_9                                                 336ms
+
+
+Run 13/20:
+  Total run time: 0.813867s
+  sci_group_base.group_1                                                 339ms
+  sci_group_base.group_10                                                371ms
+  sci_group_base.group_11                                                342ms
+  sci_group_base.group_12                                                351ms
+  sci_group_base.group_13                                                338ms
+  sci_group_base.group_14                                                356ms
+  sci_group_base.group_15                                                333ms
+  sci_group_base.group_16                                                373ms
+  sci_group_base.group_17                                                354ms
+  sci_group_base.group_18                                                335ms
+  sci_group_base.group_19                                                360ms
+  sci_group_base.group_2                                                 356ms
+  sci_group_base.group_20                                                367ms
+  sci_group_base.group_21                                                340ms
+  sci_group_base.group_22                                                327ms
+  sci_group_base.group_23                                                360ms
+  sci_group_base.group_24                                                316ms
+  sci_group_base.group_25                                                341ms
+  sci_group_base.group_26                                                368ms
+  sci_group_base.group_27                                                362ms
+  sci_group_base.group_28                                                340ms
+  sci_group_base.group_29                                                340ms
+  sci_group_base.group_3                                                 360ms
+  sci_group_base.group_30                                                358ms
+  sci_group_base.group_31                                                341ms
+  sci_group_base.group_32                                                332ms
+  sci_group_base.group_33                                                299ms
+  sci_group_base.group_34                                                312ms
+  sci_group_base.group_35                                                341ms
+  sci_group_base.group_36                                                338ms
+  sci_group_base.group_37                                                360ms
+  sci_group_base.group_38                                                355ms
+  sci_group_base.group_39                                                357ms
+  sci_group_base.group_4                                                 345ms
+  sci_group_base.group_40                                                353ms
+  sci_group_base.group_41                                                371ms
+  sci_group_base.group_42                                                345ms
+  sci_group_base.group_43                                                356ms
+  sci_group_base.group_44                                                364ms
+  sci_group_base.group_45                                                365ms
+  sci_group_base.group_46                                                331ms
+  sci_group_base.group_47                                                339ms
+  sci_group_base.group_48                                                351ms
+  sci_group_base.group_49                                                333ms
+  sci_group_base.group_5                                                 340ms
+  sci_group_base.group_50                                                372ms
+  sci_group_base.group_6                                                 332ms
+  sci_group_base.group_7                                                 319ms
+  sci_group_base.group_8                                                 341ms
+  sci_group_base.group_9                                                 352ms
+
+
+Run 14/20:
+  Total run time: 0.831358s
+  sci_group_base.group_1                                                 337ms
+  sci_group_base.group_10                                                328ms
+  sci_group_base.group_11                                                333ms
+  sci_group_base.group_12                                                329ms
+  sci_group_base.group_13                                                337ms
+  sci_group_base.group_14                                                314ms
+  sci_group_base.group_15                                                334ms
+  sci_group_base.group_16                                                325ms
+  sci_group_base.group_17                                                332ms
+  sci_group_base.group_18                                                318ms
+  sci_group_base.group_19                                                343ms
+  sci_group_base.group_2                                                 332ms
+  sci_group_base.group_20                                                333ms
+  sci_group_base.group_21                                                336ms
+  sci_group_base.group_22                                                306ms
+  sci_group_base.group_23                                                331ms
+  sci_group_base.group_24                                                341ms
+  sci_group_base.group_25                                                345ms
+  sci_group_base.group_26                                                329ms
+  sci_group_base.group_27                                                327ms
+  sci_group_base.group_28                                                342ms
+  sci_group_base.group_29                                                335ms
+  sci_group_base.group_3                                                 331ms
+  sci_group_base.group_30                                                369ms
+  sci_group_base.group_31                                                348ms
+  sci_group_base.group_32                                                308ms
+  sci_group_base.group_33                                                359ms
+  sci_group_base.group_34                                                336ms
+  sci_group_base.group_35                                                308ms
+  sci_group_base.group_36                                                341ms
+  sci_group_base.group_37                                                333ms
+  sci_group_base.group_38                                                389ms
+  sci_group_base.group_39                                                314ms
+  sci_group_base.group_4                                                 343ms
+  sci_group_base.group_40                                                356ms
+  sci_group_base.group_41                                                339ms
+  sci_group_base.group_42                                                299ms
+  sci_group_base.group_43                                                310ms
+  sci_group_base.group_44                                                303ms
+  sci_group_base.group_45                                                253ms
+  sci_group_base.group_46                                                341ms
+  sci_group_base.group_47                                                337ms
+  sci_group_base.group_48                                                336ms
+  sci_group_base.group_49                                                321ms
+  sci_group_base.group_5                                                 298ms
+  sci_group_base.group_50                                                340ms
+  sci_group_base.group_6                                                 313ms
+  sci_group_base.group_7                                                 335ms
+  sci_group_base.group_8                                                 332ms
+  sci_group_base.group_9                                                 300ms
+
+
+Run 15/20:
+  Total run time: 0.793335s
+  sci_group_base.group_1                                                 324ms
+  sci_group_base.group_10                                                300ms
+  sci_group_base.group_11                                                330ms
+  sci_group_base.group_12                                                283ms
+  sci_group_base.group_13                                                345ms
+  sci_group_base.group_14                                                320ms
+  sci_group_base.group_15                                                245ms
+  sci_group_base.group_16                                                322ms
+  sci_group_base.group_17                                                332ms
+  sci_group_base.group_18                                                304ms
+  sci_group_base.group_19                                                301ms
+  sci_group_base.group_2                                                 319ms
+  sci_group_base.group_20                                                308ms
+  sci_group_base.group_21                                                288ms
+  sci_group_base.group_22                                                313ms
+  sci_group_base.group_23                                                352ms
+  sci_group_base.group_24                                                317ms
+  sci_group_base.group_25                                                289ms
+  sci_group_base.group_26                                                362ms
+  sci_group_base.group_27                                                303ms
+  sci_group_base.group_28                                                326ms
+  sci_group_base.group_29                                                344ms
+  sci_group_base.group_3                                                 331ms
+  sci_group_base.group_30                                                297ms
+  sci_group_base.group_31                                                324ms
+  sci_group_base.group_32                                                342ms
+  sci_group_base.group_33                                                316ms
+  sci_group_base.group_34                                                343ms
+  sci_group_base.group_35                                                332ms
+  sci_group_base.group_36                                                323ms
+  sci_group_base.group_37                                                352ms
+  sci_group_base.group_38                                                309ms
+  sci_group_base.group_39                                                340ms
+  sci_group_base.group_4                                                 326ms
+  sci_group_base.group_40                                                307ms
+  sci_group_base.group_41                                                314ms
+  sci_group_base.group_42                                                320ms
+  sci_group_base.group_43                                                310ms
+  sci_group_base.group_44                                                363ms
+  sci_group_base.group_45                                                315ms
+  sci_group_base.group_46                                                321ms
+  sci_group_base.group_47                                                286ms
+  sci_group_base.group_48                                                343ms
+  sci_group_base.group_49                                                322ms
+  sci_group_base.group_5                                                 337ms
+  sci_group_base.group_50                                                298ms
+  sci_group_base.group_6                                                 331ms
+  sci_group_base.group_7                                                 335ms
+  sci_group_base.group_8                                                 305ms
+  sci_group_base.group_9                                                 303ms
+
+
+Run 16/20:
+  Total run time: 0.786700s
+  sci_group_base.group_1                                                 337ms
+  sci_group_base.group_10                                                341ms
+  sci_group_base.group_11                                                333ms
+  sci_group_base.group_12                                                311ms
+  sci_group_base.group_13                                                342ms
+  sci_group_base.group_14                                                339ms
+  sci_group_base.group_15                                                333ms
+  sci_group_base.group_16                                                321ms
+  sci_group_base.group_17                                                314ms
+  sci_group_base.group_18                                                319ms
+  sci_group_base.group_19                                                315ms
+  sci_group_base.group_2                                                 334ms
+  sci_group_base.group_20                                                338ms
+  sci_group_base.group_21                                                321ms
+  sci_group_base.group_22                                                287ms
+  sci_group_base.group_23                                                313ms
+  sci_group_base.group_24                                                313ms
+  sci_group_base.group_25                                                311ms
+  sci_group_base.group_26                                                337ms
+  sci_group_base.group_27                                                307ms
+  sci_group_base.group_28                                                317ms
+  sci_group_base.group_29                                                341ms
+  sci_group_base.group_3                                                 307ms
+  sci_group_base.group_30                                                338ms
+  sci_group_base.group_31                                                368ms
+  sci_group_base.group_32                                                338ms
+  sci_group_base.group_33                                                312ms
+  sci_group_base.group_34                                                329ms
+  sci_group_base.group_35                                                332ms
+  sci_group_base.group_36                                                348ms
+  sci_group_base.group_37                                                313ms
+  sci_group_base.group_38                                                305ms
+  sci_group_base.group_39                                                319ms
+  sci_group_base.group_4                                                 340ms
+  sci_group_base.group_40                                                289ms
+  sci_group_base.group_41                                                319ms
+  sci_group_base.group_42                                                340ms
+  sci_group_base.group_43                                                279ms
+  sci_group_base.group_44                                                321ms
+  sci_group_base.group_45                                                333ms
+  sci_group_base.group_46                                                336ms
+  sci_group_base.group_47                                                346ms
+  sci_group_base.group_48                                                311ms
+  sci_group_base.group_49                                                333ms
+  sci_group_base.group_5                                                 339ms
+  sci_group_base.group_50                                                305ms
+  sci_group_base.group_6                                                 311ms
+  sci_group_base.group_7                                                 294ms
+  sci_group_base.group_8                                                 303ms
+  sci_group_base.group_9                                                 316ms
+
+
+Run 17/20:
+  Total run time: 0.780343s
+  sci_group_base.group_1                                                 333ms
+  sci_group_base.group_10                                                332ms
+  sci_group_base.group_11                                                348ms
+  sci_group_base.group_12                                                320ms
+  sci_group_base.group_13                                                307ms
+  sci_group_base.group_14                                                335ms
+  sci_group_base.group_15                                                314ms
+  sci_group_base.group_16                                                330ms
+  sci_group_base.group_17                                                357ms
+  sci_group_base.group_18                                                259ms
+  sci_group_base.group_19                                                322ms
+  sci_group_base.group_2                                                 323ms
+  sci_group_base.group_20                                                288ms
+  sci_group_base.group_21                                                324ms
+  sci_group_base.group_22                                                344ms
+  sci_group_base.group_23                                                328ms
+  sci_group_base.group_24                                                328ms
+  sci_group_base.group_25                                                326ms
+  sci_group_base.group_26                                                325ms
+  sci_group_base.group_27                                                300ms
+  sci_group_base.group_28                                                284ms
+  sci_group_base.group_29                                                361ms
+  sci_group_base.group_3                                                 324ms
+  sci_group_base.group_30                                                316ms
+  sci_group_base.group_31                                                326ms
+  sci_group_base.group_32                                                302ms
+  sci_group_base.group_33                                                313ms
+  sci_group_base.group_34                                                310ms
+  sci_group_base.group_35                                                338ms
+  sci_group_base.group_36                                                288ms
+  sci_group_base.group_37                                                322ms
+  sci_group_base.group_38                                                356ms
+  sci_group_base.group_39                                                353ms
+  sci_group_base.group_4                                                 299ms
+  sci_group_base.group_40                                                304ms
+  sci_group_base.group_41                                                305ms
+  sci_group_base.group_42                                                342ms
+  sci_group_base.group_43                                                338ms
+  sci_group_base.group_44                                                328ms
+  sci_group_base.group_45                                                334ms
+  sci_group_base.group_46                                                337ms
+  sci_group_base.group_47                                                309ms
+  sci_group_base.group_48                                                312ms
+  sci_group_base.group_49                                                332ms
+  sci_group_base.group_5                                                 329ms
+  sci_group_base.group_50                                                346ms
+  sci_group_base.group_6                                                 286ms
+  sci_group_base.group_7                                                 317ms
+  sci_group_base.group_8                                                 305ms
+  sci_group_base.group_9                                                 326ms
+
+
+Run 18/20:
+  Total run time: 0.824236s
+  sci_group_base.group_1                                                 351ms
+  sci_group_base.group_10                                                352ms
+  sci_group_base.group_11                                                274ms
+  sci_group_base.group_12                                                323ms
+  sci_group_base.group_13                                                335ms
+  sci_group_base.group_14                                                321ms
+  sci_group_base.group_15                                                342ms
+  sci_group_base.group_16                                                373ms
+  sci_group_base.group_17                                                336ms
+  sci_group_base.group_18                                                350ms
+  sci_group_base.group_19                                                320ms
+  sci_group_base.group_2                                                 360ms
+  sci_group_base.group_20                                                352ms
+  sci_group_base.group_21                                                349ms
+  sci_group_base.group_22                                                322ms
+  sci_group_base.group_23                                                318ms
+  sci_group_base.group_24                                                343ms
+  sci_group_base.group_25                                                339ms
+  sci_group_base.group_26                                                390ms
+  sci_group_base.group_27                                                350ms
+  sci_group_base.group_28                                                276ms
+  sci_group_base.group_29                                                295ms
+  sci_group_base.group_3                                                 330ms
+  sci_group_base.group_30                                                272ms
+  sci_group_base.group_31                                                315ms
+  sci_group_base.group_32                                                312ms
+  sci_group_base.group_33                                                387ms
+  sci_group_base.group_34                                                248ms
+  sci_group_base.group_35                                                347ms
+  sci_group_base.group_36                                                305ms
+  sci_group_base.group_37                                                338ms
+  sci_group_base.group_38                                                348ms
+  sci_group_base.group_39                                                325ms
+  sci_group_base.group_4                                                 345ms
+  sci_group_base.group_40                                                324ms
+  sci_group_base.group_41                                                340ms
+  sci_group_base.group_42                                                320ms
+  sci_group_base.group_43                                                325ms
+  sci_group_base.group_44                                                330ms
+  sci_group_base.group_45                                                317ms
+  sci_group_base.group_46                                                353ms
+  sci_group_base.group_47                                                293ms
+  sci_group_base.group_48                                                338ms
+  sci_group_base.group_49                                                268ms
+  sci_group_base.group_5                                                 313ms
+  sci_group_base.group_50                                                327ms
+  sci_group_base.group_6                                                 316ms
+  sci_group_base.group_7                                                 278ms
+  sci_group_base.group_8                                                 344ms
+  sci_group_base.group_9                                                 319ms
+
+
+Run 19/20:
+  Total run time: 0.761028s
+  sci_group_base.group_1                                                 321ms
+  sci_group_base.group_10                                                304ms
+  sci_group_base.group_11                                                282ms
+  sci_group_base.group_12                                                331ms
+  sci_group_base.group_13                                                339ms
+  sci_group_base.group_14                                                314ms
+  sci_group_base.group_15                                                304ms
+  sci_group_base.group_16                                                304ms
+  sci_group_base.group_17                                                307ms
+  sci_group_base.group_18                                                276ms
+  sci_group_base.group_19                                                339ms
+  sci_group_base.group_2                                                 318ms
+  sci_group_base.group_20                                                280ms
+  sci_group_base.group_21                                                315ms
+  sci_group_base.group_22                                                301ms
+  sci_group_base.group_23                                                312ms
+  sci_group_base.group_24                                                300ms
+  sci_group_base.group_25                                                293ms
+  sci_group_base.group_26                                                313ms
+  sci_group_base.group_27                                                312ms
+  sci_group_base.group_28                                                317ms
+  sci_group_base.group_29                                                301ms
+  sci_group_base.group_3                                                 326ms
+  sci_group_base.group_30                                                322ms
+  sci_group_base.group_31                                                309ms
+  sci_group_base.group_32                                                234ms
+  sci_group_base.group_33                                                338ms
+  sci_group_base.group_34                                                308ms
+  sci_group_base.group_35                                                271ms
+  sci_group_base.group_36                                                310ms
+  sci_group_base.group_37                                                305ms
+  sci_group_base.group_38                                                327ms
+  sci_group_base.group_39                                                316ms
+  sci_group_base.group_4                                                 329ms
+  sci_group_base.group_40                                                290ms
+  sci_group_base.group_41                                                282ms
+  sci_group_base.group_42                                                329ms
+  sci_group_base.group_43                                                302ms
+  sci_group_base.group_44                                                274ms
+  sci_group_base.group_45                                                321ms
+  sci_group_base.group_46                                                307ms
+  sci_group_base.group_47                                                267ms
+  sci_group_base.group_48                                                340ms
+  sci_group_base.group_49                                                333ms
+  sci_group_base.group_5                                                 314ms
+  sci_group_base.group_50                                                326ms
+  sci_group_base.group_6                                                 337ms
+  sci_group_base.group_7                                                 338ms
+  sci_group_base.group_8                                                 315ms
+  sci_group_base.group_9                                                 294ms
+
+
+Run 20/20:
+  Total run time: 0.879226s
+  sci_group_base.group_1                                                 305ms
+  sci_group_base.group_10                                                365ms
+  sci_group_base.group_11                                                389ms
+  sci_group_base.group_12                                                360ms
+  sci_group_base.group_13                                                344ms
+  sci_group_base.group_14                                                342ms
+  sci_group_base.group_15                                                410ms
+  sci_group_base.group_16                                                343ms
+  sci_group_base.group_17                                                370ms
+  sci_group_base.group_18                                                391ms
+  sci_group_base.group_19                                                375ms
+  sci_group_base.group_2                                                 359ms
+  sci_group_base.group_20                                                403ms
+  sci_group_base.group_21                                                399ms
+  sci_group_base.group_22                                                396ms
+  sci_group_base.group_23                                                389ms
+  sci_group_base.group_24                                                365ms
+  sci_group_base.group_25                                                373ms
+  sci_group_base.group_26                                                371ms
+  sci_group_base.group_27                                                329ms
+  sci_group_base.group_28                                                368ms
+  sci_group_base.group_29                                                348ms
+  sci_group_base.group_3                                                 370ms
+  sci_group_base.group_30                                                326ms
+  sci_group_base.group_31                                                437ms
+  sci_group_base.group_32                                                371ms
+  sci_group_base.group_33                                                350ms
+  sci_group_base.group_34                                                408ms
+  sci_group_base.group_35                                                390ms
+  sci_group_base.group_36                                                374ms
+  sci_group_base.group_37                                                367ms
+  sci_group_base.group_38                                                340ms
+  sci_group_base.group_39                                                349ms
+  sci_group_base.group_4                                                 392ms
+  sci_group_base.group_40                                                392ms
+  sci_group_base.group_41                                                347ms
+  sci_group_base.group_42                                                344ms
+  sci_group_base.group_43                                                394ms
+  sci_group_base.group_44                                                352ms
+  sci_group_base.group_45                                                381ms
+  sci_group_base.group_46                                                410ms
+  sci_group_base.group_47                                                365ms
+  sci_group_base.group_48                                                399ms
+  sci_group_base.group_49                                                386ms
+  sci_group_base.group_5                                                 384ms
+  sci_group_base.group_50                                                337ms
+  sci_group_base.group_6                                                 369ms
+  sci_group_base.group_7                                                 365ms
+  sci_group_base.group_8                                                 388ms
+  sci_group_base.group_9                                                 388ms
+
+
+Final results:
+-------                                ------------    -----------    -----------
+Element                                Average (ms)   Minimum (ms)   Maximum (ms)
+sci_group_base.group_1                       331.85            272            398
+sci_group_base.group_10                      334.60            290            413
+sci_group_base.group_11                      330.40            274            389
+sci_group_base.group_12                      322.70            271            373
+sci_group_base.group_13                      332.45            275            408
+sci_group_base.group_14                      334.15            293            417
+sci_group_base.group_15                      327.65            245            410
+sci_group_base.group_16                      333.45            299            379
+sci_group_base.group_17                      334.00            296            378
+sci_group_base.group_18                      330.05            259            394
+sci_group_base.group_19                      333.25            291            384
+sci_group_base.group_2                       331.10            294            398
+sci_group_base.group_20                      334.65            280            413
+sci_group_base.group_21                      328.55            279            404
+sci_group_base.group_22                      330.25            283            402
+sci_group_base.group_23                      332.80            267            418
+sci_group_base.group_24                      339.55            300            403
+sci_group_base.group_25                      328.10            258            398
+sci_group_base.group_26                      341.85            297            405
+sci_group_base.group_27                      329.50            270            401
+sci_group_base.group_28                      328.95            276            403
+sci_group_base.group_29                      329.45            271            417
+sci_group_base.group_3                       331.95            284            428
+sci_group_base.group_30                      329.00            272            418
+sci_group_base.group_31                      340.15            286            437
+sci_group_base.group_32                      336.15            234            503
+sci_group_base.group_33                      335.45            297            397
+sci_group_base.group_34                      330.85            248            408
+sci_group_base.group_35                      328.80            271            390
+sci_group_base.group_36                      330.45            285            412
+sci_group_base.group_37                      330.85            271            403
+sci_group_base.group_38                      333.60            278            389
+sci_group_base.group_39                      326.20            268            386
+sci_group_base.group_4                       335.65            272            408
+sci_group_base.group_40                      327.10            288            438
+sci_group_base.group_41                      327.00            267            393
+sci_group_base.group_42                      328.95            254            397
+sci_group_base.group_43                      327.45            276            406
+sci_group_base.group_44                      331.90            264            409
+sci_group_base.group_45                      331.25            253            393
+sci_group_base.group_46                      336.20            292            410
+sci_group_base.group_47                      326.00            266            406
+sci_group_base.group_48                      326.00            256            399
+sci_group_base.group_49                      327.80            268            395
+sci_group_base.group_5                       340.50            298            451
+sci_group_base.group_50                      333.75            285            393
+sci_group_base.group_6                       319.40            214            391
+sci_group_base.group_7                       326.30            278            403
+sci_group_base.group_8                       324.35            247            398
+sci_group_base.group_9                       328.70            288            391
+
+Grouped results:
+-------                                ------------    -----------    -----------
+Element                                Average (ms)   Minimum (ms)   Maximum (ms)
+sci_group_base.*                             331.02            214            503
+
+Total wall-clock time: 16.447335s
+Average wall-clock time: 0.822367s
+Minimum wall-clock time: 0.761028s
+Maximum wall-clock time: 0.941783s
+Total Ressources: 50
