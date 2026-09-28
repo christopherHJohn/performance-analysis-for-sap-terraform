@@ -1,20 +1,5 @@
 # A performance analysis for SAP related Terraform providers
 
-<div><div style="display: inline-block">
-
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)
-
-</div><div style="display: inline-block; margin-left: 10px">
-
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)
- 
-</div><div style="display: inline-block; margin-left: 10px">
-
-![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)
-
-</div></div>
-
-
 <img src="./img/cover_image.jpg" width=250px><br>
 
 
