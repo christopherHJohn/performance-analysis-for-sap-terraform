@@ -2,7 +2,7 @@
 
 <img src="./img/cover_image.jpg" width=250px>
 
-When looking for recommendations for Terraform state design, one will often see advice like _"separate rarely changing and frequently changing elements"_ or more geneal _"keep states small"_. This is useful advice when looking at the topic from a high level, but these are no concrete numbers one can use as a reference point. This also leads to one question often being unanswered: _"How many resources are considered a small state?"_
+When looking for recommendations for Terraform state design, one will often see advice like _"separate rarely changing and frequently changing elements"_ or more generally _"keep states small"_. This is useful advice when looking at the topic from a high level, but these are no concrete numbers one can use as a reference point. This also leads to one question often being unanswered: _"How many resources are considered a small state?"_
 
 For the SAP related providers, there are differences of more than 200 times in the duration it takes to refresh different resources. This changes what can be considered small for a state and moves the question from the resource count alone to a question about the combination of resource type and resource count.
 

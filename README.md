@@ -3,7 +3,7 @@
 <img src="./img/cover_image.jpg" width=250px><br>
 
 
-This repository contains the detailed results for the blog post on **Dev.to**.
+This repository contains the detailed results for the blog post on [**Dev.to**](https://dev.to/christopherjohn/a-performance-analysis-for-sap-related-terraform-providers-3k3l).
 
 Alternatively, the blog can also be found in this repo at [**BLOG.md**](BLOG.md).
 
